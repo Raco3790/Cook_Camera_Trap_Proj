@@ -1,0 +1,155 @@
+
+title: "Camera_trap_project"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+#Data description:
+
+For my project I will be using camera trap data collected in the Mache-Chindul of NW Ecuador, a region characterized by high levels of fragmentation. Originally, I began with three different spreedsheets. One, entitled "species identification" displayed all species, mammals and birds, detected during the study, along with the trapping period (when the camera was placed out in the field) during which it was detected. Another spreadsheet entitiled "camera information" listed the various camera trapping periods, along with the habitat variables at that site for each trapping period. It included variables such as canopy height, canopy openess (scope),ten, fifty, etc. The third called "fragment habitat summary" listed the fragments along with fragment-level variables (same variables as the habitat variables but these are in caps (SCOPE, FIFTY, etc)). 
+
+I used commonalities between the spreadsheets (fragment and trapping period) to link the spread sheets into one dataset called species_detection. Because many of the bird species were unknown, I filtered out the bird data so that I was just working with the mammal data. I called this new dataset species_no_birds. This is the dataset I work with for my project. 
+
+The columns in my data are trapping_period, species, class, n_animals, elev, canopy scope, canopy height, ten and fifty. For these 9 columns, I have 1817 observation. The trapping period refers to the period of time for which a camera was placed in the field. The class distinguishes between bird or mammal. Elevation refers to the elevation of the fragment. The canopy scope refers to the openess of the canopy of the fragment. Ten refres to the number of trees > 10 cm dbh in 5 m radius around the camera. Fifty is the number of trees > 50 cm dbh in 5 m radius around the fragment.
+
+#Project goals:
+I did not have a hypothesis. Instead, I looked for patterns in species occurance in relation to fragment-level vegetative characteristics like canopy SCOPE, TEN, FIFTY, AREA, etc.  
+
+#Data summary:
+```{r}
+library("tidyverse")
+
+```
+
+```
+
+```{r}
+#Reading in camer_info data.frame
+
+
+camera_info <- read_csv("Data/camera information 2018_09_08.csv")
+
+#Selecting only variables I am interested in
+camera_info <- camera_info %>% 
+select(trapping_period, fragment)
+
+#Reading in species_detection data.frame
+
+species_detection <- read_csv("Data/species detection data 2018_09_08.csv")
+
+#Selecting only variables I am interested in
+species_detection <- species_detection %>% 
+select(trapping_period, species, class, n_animals)
+
+#Reading in frag_summary data.frame
+
+frag_summary <- read_csv("Data/Fragment habitat summary 2015_08_08.csv")
+
+#Selecting only variables I am interested in
+frag_summary <-frag_summary %>% 
+select(fragment, AREA, TEN, FIFTY, SCOPE)
+
+#Filtering out birds, creating surveys_no_birds data.frame
+
+surveys_no_birds <- species_detection %>%
+  filter(class=="mammal") %>% 
+  select(-class)
+  
+#Merging the camera info into species trapping data.frames with join. Another way to do this is with for loop
+
+surveys_no_birds <- left_join(surveys_no_birds,camera_info)
+surveys_no_birds <-left_join(surveys_no_birds, frag_summary)
+
+#Summarize by fragment 
+frag<-surveys_no_birds %>% 
+group_by(fragment) %>% 
+summarize(richness=n_distinct(species),TEN=mean(TEN))
+str(frag)
+
+```
+
+
+#Exploring the data:
+###Total species detected in different fragments 
+```{r}
+richness_plot <- ggplot(data=surveys_no_birds,
+mapping= aes(x=fragment, y=n_distinct(species), fill=species))+
+geom_bar(stat="identity", alpha=0.8)+
+labs(title= "Species in each fragment",
+   x="fragment #",
+   y="Number of species")
+plot(richness_plot)
+
+```
+The abrove graph shows abundance and richness of species for each fragment plot. The colors represent individual species and the bar height represents total species abundance.
+
+
+###Comparing TEN (Number of trees > 10 cm dbh in 5? m radius around camera) to species abundance and richness
+```{r}
+TEN_plot <- ggplot(data= surveys_no_birds,
+  mapping= aes(x=TEN, y=species, fill=species)) +
+  geom_bar(stat="identity", alpha=0.8)
+plot(TEN_plot)
+```
+The graph above shows that when there are fewer trees greater than 10cm dbh within a 5 m radius around the camera, species abundance and richness is greater. This is the opposite of what I would predict,considering species abundance is generally proportional to tree cover.
+
+###Comparing FIFTY (Number of trees > 50 cm dbh in 5? m radius around camera) to species abundance and richness
+```{r}
+FIFTY_plot <- ggplot(data= surveys_no_birds,
+  mapping= aes(x=FIFTY, y=species, fill=species)) +
+  geom_bar(stat="identity", alpha=0.8)
+plot(FIFTY_plot)
+```
+Again, the above graph shows a trend contrary to expectations. Species abundance and richness is greatest when there are no trees > 50 cm dbh within a 5 m radius around the camera. One explanation for this pattern is that there are simply not many trees greater than 50 cm dbh (diameter at breast height) in the fragment patches under study. 
+
+###Comparing canopy openess (SCOPE) to species abundance and richness
+```{r}
+SCOPE_plot <- ggplot(data= surveys_no_birds,
+  mapping= aes(x=SCOPE, y=species,fill=species)) +
+   geom_bar(stat="identity", alpha=0.8)+
+   labs(title= "Species VS Canopy SCOPE",
+   x="Canopy SCOPE",
+   y="Number of species")
+plot(SCOPE_plot)
+
+```
+The above graph displays results that align with expectations. Canopy openness is negatively correlated with species abundance and richness.
+
+#Analysis(ANOVA)
+
+### SCOPE~species ANOVA
+
+The simplest anova is like a T test because you are comparing mean of two groups. The below tests for significance between species and canopy scope. 
+```{r}
+aov.first= aov(SCOPE~species,data= surveys_no_birds)
+summary(aov.first)
+print(model.tables(aov.first, "means"),digits=3) #report the means
+boxplot(SCOPE~species, data=surveys_no_birds) #graphical summary 
+```
+
+### FIFTY~species ANOVA
+
+```{r}
+aov.second= aov(FIFTY~species, data= surveys_no_birds)
+summary(aov.second)
+print(model.tables(aov.second, "means"),digits=3)
+boxplot(FIFTY~species, data=surveys_no_birds) 
+
+```
+
+### TEN~species ANOVA
+
+```{r}
+aov.third= aov(TEN~species+Error(fragment/TEN), data= surveys_no_birds)
+summary(aov.third)
+print(model.tables(aov.third, "means"), digits=3)
+boxplot(TEN~species, data=surveys_no_birds)
+unique(surveys_no_birds$species)
+
+
+```
+
+
+
+
