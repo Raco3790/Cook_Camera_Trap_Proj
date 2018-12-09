@@ -1,0 +1,1818 @@
+trapping_period,date_video,species,class,n_animals,file_name
+TP-062,8/3/2014,Sciurus sp.,mammal,1,IMG_0005 squirrel one.AVI
+TP-062,8/9/2014,bird,bird,1,IMG_0015 bird one.AVI
+TP-062,8/12/2014,bird,bird,1,IMG_0019 bird one.AVI
+TP-063,8/3/2014,bird,bird,1,IMG_0011 bird one.AVI
+TP-063,8/3/2014,bird,bird,1,IMG_0013 bird one.AVI
+TP-063,8/3/2014,bird,bird,1,IMG_0014 bird one.AVI
+TP-063,8/4/2014,bird,bird,1,IMG_0015 bird one.AVI
+TP-063,8/19/2014,Sciurus sp.,mammal,1,IMG_0015 squirrel one.AVI
+TP-063,8/23/2014,Nasua narica,mammal,2,IMG_0017 coati two.AVI
+TP-063,8/6/2014,bird,bird,1,IMG_0020 bird one.AVI
+TP-063,8/9/2014,Puma yagouaroundi,mammal,1,IMG_0035 jaguarundi one.AVI
+TP-064,8/4/2014,quail,bird,6,IMG_0013 quail six.AVI
+TP-064,8/5/2014,quail,bird,3,IMG_0016 quail three.AVI
+TP-064,8/8/2014,Nasua narica,mammal,1,IMG_0022 coati one.AVI
+TP-065,8/3/2014,Sciurus sp.,mammal,1,IMG_0034 squirrel one.AVI
+TP-065,8/6/2014,Sciurus sp.,mammal,1,IMG_0036 squirrel one.AVI
+TP-065,8/8/2014,Sciurus sp.,mammal,1,IMG_0037 squirrel one.AVI
+TP-065,8/9/2014,Leopardus pardalis,mammal,1,IMG_0038 ocelot one good.AVI
+TP-066,8/4/2014,bird,bird,1,IMG_0052 bird one.AVI
+TP-066,8/5/2014,Philander sp.,mammal,4,IMG_0054 four-eye one.AVI
+TP-066,8/6/2014,Cuniculus paca,mammal,1,IMG_0057 paca one.AVI
+TP-066,8/13/2014,Dasyprocta punctata,mammal,1,IMG_0060 agouti one.AVI
+TP-066,8/13/2014,bird,bird,1,IMG_0061 bird one (2).AVI
+TP-066,8/7/2014,bird,bird,1,IMG_0061 bird one.AVI
+TP-066,8/8/2014,Philander sp.,mammal,4,IMG_0063 four-eye one.AVI
+TP-066,8/15/2014,bird,bird,1,IMG_0064 bird one.AVI
+TP-066,8/15/2014,bird,bird,1,IMG_0065 bird one.AVI
+TP-066,8/15/2014,quail,bird,3,IMG_0066 quail three.AVI
+TP-066,8/15/2014,quail,bird,3,IMG_0067 quail three.AVI
+TP-066,8/15/2014,quail,bird,7,IMG_0068 quail seven.AVI
+TP-066,8/15/2014,quail,bird,1,IMG_0070 quail one.AVI
+TP-066,8/17/2014,bird,bird,2,IMG_0074 bird two.AVI
+TP-066,8/18/2014,Sciurus sp.,mammal,1,IMG_0078 squirrel one.AVI
+TP-066,8/21/2014,Leopardus pardalis,mammal,1,IMG_0080 ocelot one.AVI
+TP-066,8/22/2014,Dasypus novemcinctus,mammal,1,IMG_0082 nine-banded one.AVI
+TP-066,8/9/2014,Leopardus pardalis,mammal,1,IMG_0082 ocelot one.AVI
+TP-066,8/22/2014,bird,bird,1,IMG_0083 bird one.AVI
+TP-066,8/9/2014,Leopardus pardalis,mammal,1,IMG_0083 ocelot one.AVI
+TP-066,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0085 agouti one.AVI
+TP-066,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0086 agouti one.AVI
+TP-066,8/10/2014,bird,bird,1,IMG_0087 bird one.AVI
+TP-066,8/11/2014,Philander sp.,mammal,4,IMG_0088 four-eye one.AVI
+TP-066,8/11/2014,Philander sp.,mammal,4,IMG_0089 four-eye one.AVI
+TP-066,8/11/2014,Philander sp.,mammal,4,IMG_0090 four-eye one.AVI
+TP-067,8/4/2014,bird,bird,1,MFDC0003 bird one.AVI
+TP-067,8/5/2014,Dasyprocta punctata,mammal,1,MFDC0007 agouti one.AVI
+TP-067,8/7/2014,bird,bird,1,MFDC0014 bird one.AVI
+TP-067,8/16/2014,bird,bird,1,MFDC0024 bird one.AVI
+TP-067,8/17/2014,Leopardus pardalis,mammal,1,MFDC0032 ocelot one.AVI
+TP-067,8/19/2014,bird,bird,1,MFDC0035 bird one.AVI
+TP-067,8/19/2014,bird,bird,2,MFDC0036 bird two.AVI
+TP-067,8/19/2014,bird,bird,1,MFDC0037 bird one.AVI
+TP-067,8/20/2014,Leopardus pardalis,mammal,1,MFDC0039 ocelot one.AVI
+TP-068,8/14/2014,Sciurus sp.,mammal,1,IMG_0012 squirrel one.AVI
+TP-068,8/20/2014,Leopardus pardalis,mammal,1,IMG_0019 ocelot one.AVI
+TP-068,8/23/2014,Cuniculus paca,mammal,1,IMG_0022 paca one.AVI
+TP-068,8/24/2014,Philander sp.,mammal,4,IMG_0024 four-eye one.AVI
+TP-068,8/6/2014,bird,bird,1,IMG_0051 bird one.AVI
+TP-068,8/12/2014,bird,bird,1,IMG_0054 bird one.AVI
+TP-069,8/17/2014,Leopardus pardalis,mammal,1,IMG_0004 ocelot one.AVI
+TP-069,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0005 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0006 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0007 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0008 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0009 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0010 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0011 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0012 nine-banded one.AVI
+TP-069,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0013 nine-banded one.AVI
+TP-069,8/18/2014,Dasyprocta punctata,mammal,1,IMG_0015 agouti one.AVI
+TP-069,8/25/2014,Dasypus novemcinctus,mammal,1,IMG_0023 nine-banded one.AVI
+TP-069,8/25/2014,Dasypus novemcinctus,mammal,1,IMG_0024 nine-banded one.AVI
+TP-069,8/5/2014,Dasyprocta punctata,mammal,1,IMG_0042 agouti one.AVI
+TP-069,8/7/2014,Dasypus novemcinctus,mammal,1,IMG_0052 nine-banded one.AVI
+TP-069,8/7/2014,Dasypus novemcinctus,mammal,1,IMG_0053 nine-banded one.AVI
+TP-070,8/11/2014,Dasyprocta punctata,mammal,1,IMG_0009 agouti one.AVI
+TP-070,8/11/2014,Dasyprocta punctata,mammal,1,IMG_0010 agouti one.AVI
+TP-070,8/11/2014,Dasyprocta punctata,mammal,1,IMG_0012 agouti one.AVI
+TP-070,8/17/2014,Leopardus pardalis,mammal,1,IMG_0016 ocelot one good unsure.AVI
+TP-070,8/17/2014,Dasyprocta punctata,mammal,1,IMG_0019 agouti one.AVI
+TP-070,8/17/2014,Dasyprocta punctata,mammal,1,IMG_0020 agouti one.AVI
+TP-070,8/5/2014,Dasypus novemcinctus,mammal,1,IMG_0047 nine-banded one.AVI
+TP-070,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0051 agouti one.AVI
+TP-070,8/10/2014,bird,bird,1,IMG_0055 bird one.AVI
+TP-071,8/13/2014,Cuniculus paca,mammal,1,IMG_0013 paca one.AVI
+TP-071,8/13/2014,Dasyprocta punctata,mammal,1,IMG_0014 agouti one.AVI
+TP-071,8/13/2014,bird,bird,1,IMG_0015 bird one.AVI
+TP-071,8/14/2014,Cuniculus paca,mammal,1,IMG_0017 paca one.AVI
+TP-071,8/15/2014,Cuniculus paca,mammal,1,IMG_0023 paca one.AVI
+TP-071,8/15/2014,quail,bird,2,IMG_0024 quail two.AVI
+TP-071,8/15/2014,quail,bird,2,IMG_0025 quail two.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0028 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0029 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0030 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0031 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0032 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0034 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0035 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0036 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0037 paca one.AVI
+TP-071,8/16/2014,Cuniculus paca,mammal,1,IMG_0038 paca one.AVI
+TP-071,8/17/2014,Cuniculus paca,mammal,1,IMG_0039 paca one.AVI
+TP-071,8/17/2014,Cuniculus paca,mammal,1,IMG_0040 paca one.AVI
+TP-071,8/17/2014,Cuniculus paca,mammal,1,IMG_0041 paca one.AVI
+TP-071,8/17/2014,Cuniculus paca,mammal,1,IMG_0043 paca one.AVI
+TP-071,8/17/2014,quail,bird,4,IMG_0045 quail four.AVI
+TP-071,8/17/2014,bird,bird,1,IMG_0046 bird one.AVI
+TP-071,8/17/2014,Sciurus sp.,mammal,1,IMG_0048 squirrel one good.AVI
+TP-071,8/17/2014,bird,bird,1,IMG_0049 bird one.AVI
+TP-071,8/17/2014,bird,bird,1,IMG_0050 bird one.AVI
+TP-071,8/17/2014,bird,bird,1,IMG_0051 bird one.AVI
+TP-071,8/17/2014,bird,bird,1,IMG_0052 bird one.AVI
+TP-071,8/17/2014,quail,bird,2,IMG_0053 quail two.AVI
+TP-071,8/18/2014,Cuniculus paca,mammal,1,IMG_0054 paca one.AVI
+TP-071,8/18/2014,quail,bird,4,IMG_0056 quail four.AVI
+TP-071,8/18/2014,bird,bird,1,IMG_0057 bird one.AVI
+TP-071,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0059 nine-banded one.AVI
+TP-071,8/4/2014,bird,bird,1,IMG_0060 bird one.AVI
+TP-071,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0060 nine-banded one.AVI
+TP-071,8/5/2014,Cuniculus paca,mammal,1,IMG_0061 paca one.AVI
+TP-071,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0062 nine-banded one.AVI
+TP-071,8/5/2014,Cuniculus paca,mammal,1,IMG_0062 paca one.AVI
+TP-071,8/5/2014,Cuniculus paca,mammal,1,IMG_0063 paca one.AVI
+TP-071,8/19/2014,Cuniculus paca,mammal,1,IMG_0064 paca one (2).AVI
+TP-071,8/5/2014,Cuniculus paca,mammal,1,IMG_0064 paca one.AVI
+TP-071,8/19/2014,Cuniculus paca,mammal,1,IMG_0065 paca one (2).AVI
+TP-071,8/5/2014,Cuniculus paca,mammal,1,IMG_0065 paca one.AVI
+TP-071,8/20/2014,Cuniculus paca,mammal,1,IMG_0066 paca one (2).AVI
+TP-071,8/5/2014,Cuniculus paca,mammal,1,IMG_0066 paca one.AVI
+TP-071,8/20/2014,Dasypus novemcinctus,mammal,1,IMG_0067 nine-banded one.AVI
+TP-071,8/5/2014,Cuniculus paca,mammal,1,IMG_0067 paca one.AVI
+TP-071,8/5/2014,Dasyprocta punctata,mammal,1,IMG_0068 agouti one.AVI
+TP-071,8/20/2014,quail,bird,1,IMG_0068 quail one.AVI
+TP-071,8/21/2014,quail,bird,4,IMG_0070 quail four.AVI
+TP-071,8/22/2014,Cuniculus paca,mammal,1,IMG_0071 paca one.AVI
+TP-071,8/22/2014,Cuniculus paca,mammal,1,IMG_0072 paca one (2).AVI
+TP-071,8/6/2014,Cuniculus paca,mammal,1,IMG_0072 paca one.AVI
+TP-071,8/6/2014,Cuniculus paca,mammal,1,IMG_0073 paca one.AVI
+TP-071,8/22/2014,Sciurus sp.,mammal,1,IMG_0073 squirrel one.AVI
+TP-071,8/22/2014,Sciurus sp.,mammal,1,IMG_0074 squirrel one example.AVI
+TP-071,8/24/2014,Cuniculus paca,mammal,1,IMG_0075 paca one (2).AVI
+TP-071,8/6/2014,Cuniculus paca,mammal,1,IMG_0075 paca one.AVI
+TP-071,8/6/2014,Cuniculus paca,mammal,1,IMG_0076 paca one.AVI
+TP-071,8/24/2014,Cuniculus paca,mammal,1,IMG_0077 paca one (2).AVI
+TP-071,8/6/2014,Cuniculus paca,mammal,1,IMG_0077 paca one.AVI
+TP-071,8/6/2014,Cuniculus paca,mammal,1,IMG_0078 paca one.AVI
+TP-071,8/24/2014,Dasyprocta punctata,mammal,1,IMG_0079 agouti one.AVI
+TP-071,8/6/2014,Dasyprocta punctata,mammal,1,IMG_0080 agouti one.AVI
+TP-071,8/6/2014,Dasyprocta punctata,mammal,1,IMG_0081 agouti one.AVI
+TP-071,8/25/2014,quail,bird,1,IMG_0081 quail one.AVI
+TP-071,8/7/2014,Cuniculus paca,mammal,1,IMG_0082 paca one.AVI
+TP-071,8/7/2014,Cuniculus paca,mammal,1,IMG_0083 paca one.AVI
+TP-071,8/7/2014,Cuniculus paca,mammal,1,IMG_0084 paca one.AVI
+TP-071,8/7/2014,Cuniculus paca,mammal,1,IMG_0085 paca one.AVI
+TP-071,8/7/2014,Cuniculus paca,mammal,1,IMG_0086 paca one.AVI
+TP-071,8/7/2014,quail,bird,3,IMG_0087 quail three.AVI
+TP-071,8/7/2014,Dasyprocta punctata,mammal,1,IMG_0088 agouti one.AVI
+TP-071,8/7/2014,bird,bird,1,IMG_0089 bird one.AVI
+TP-071,8/7/2014,Sciurus sp.,mammal,1,IMG_0090 squirrel one.AVI
+TP-071,8/8/2014,Cuniculus paca,mammal,1,IMG_0092 paca one.AVI
+TP-071,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0093 agouti one.AVI
+TP-071,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0094 agouti one.AVI
+TP-071,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0095 agouti one.AVI
+TP-071,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0096 agouti one.AVI
+TP-071,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0097 agouti one.AVI
+TP-071,8/9/2014,Cuniculus paca,mammal,1,IMG_0098 paca one.AVI
+TP-071,8/9/2014,Sciurus sp.,mammal,1,IMG_0099 squirrel one.AVI
+TP-071,8/9/2014,Dasyprocta punctata,mammal,1,IMG_0101 agouti one.AVI
+TP-071,8/9/2014,quail,bird,1,IMG_0102 quail one.AVI
+TP-071,8/10/2014,Didelphis marsupialis,mammal,1,IMG_0103 opossum one.AVI
+TP-071,8/10/2014,quail,bird,3,IMG_0104 quail three.AVI
+TP-071,8/10/2014,Sciurus sp.,mammal,1,IMG_0105 squirrel one.AVI
+TP-071,8/11/2014,Sciurus sp.,mammal,1,IMG_0106 squirrel one.AVI
+TP-071,8/11/2014,Sciurus sp.,mammal,1,IMG_0107 squirrel one.AVI
+TP-072,8/16/2014,Cuniculus paca,mammal,1,EK000002 paca one.AVI
+TP-072,8/17/2014,Cuniculus paca,mammal,1,EK000004 paca one.AVI
+TP-072,8/6/2014,Dasyprocta punctata,mammal,1,EK000005 agouti one.AVI
+TP-072,8/6/2014,Dasyprocta punctata,mammal,1,EK000006 agouti one.AVI
+TP-072,8/8/2014,Didelphis marsupialis,mammal,1,EK000007 opossum one.AVI
+TP-072,8/8/2014,Dasyprocta punctata,mammal,1,EK000008 agouti one.AVI
+TP-072,8/8/2014,Dasyprocta punctata,mammal,1,EK000009 agouti one.AVI
+TP-073,8/6/2014,bird,bird,1,IMG_0004 bird one.AVI
+TP-073,8/16/2014,Sciurus sp.,mammal,1,IMG_0005 squirrel one.AVI
+TP-073,8/16/2014,Dasyprocta punctata,mammal,1,IMG_0006 agouti one.AVI
+TP-073,8/18/2014,quail,bird,2,IMG_0011 quail two.AVI
+TP-073,8/21/2014,Cuniculus paca,mammal,1,IMG_0015 paca one.AVI
+TP-073,8/23/2014,Cuniculus paca,mammal,1,IMG_0022 paca one.AVI
+TP-074,8/4/2014,Dasyprocta punctata,mammal,1,MFDC0006 agouti one.AVI
+TP-074,8/4/2014,Dasyprocta punctata,mammal,1,MFDC0007 agouti one.AVI
+TP-074,8/16/2014,Leopardus pardalis,mammal,1,MFDC0008 ocelot one good.AVI
+TP-074,8/5/2014,Dasyprocta punctata,mammal,1,MFDC0010 agouti one.AVI
+TP-074,8/16/2014,Nasua narica,mammal,2,MFDC0010 coati two.AVI
+TP-074,8/6/2014,Dasyprocta punctata,mammal,1,MFDC0011 agouti one.AVI
+TP-074,8/16/2014,Nasua narica,mammal,2,MFDC0011 coati two.AVI
+TP-074,8/16/2014,Nasua narica,mammal,5,MFDC0012 coati five.AVI
+TP-074,8/7/2014,Cuniculus paca,mammal,1,MFDC0012 paca one.AVI
+TP-074,8/7/2014,Dasyprocta punctata,mammal,1,MFDC0013 agouti one.AVI
+TP-074,8/7/2014,Dasyprocta punctata,mammal,1,MFDC0014 agouti one.AVI
+TP-074,8/18/2014,Dasypus novemcinctus,mammal,1,MFDC0014 nine-banded one.AVI
+TP-074,8/8/2014,Dasyprocta punctata,mammal,1,MFDC0017 agouti one.AVI
+TP-074,8/8/2014,Dasyprocta punctata,mammal,1,MFDC0018 agouti one.AVI
+TP-074,8/9/2014,Didelphis marsupialis,mammal,1,MFDC0019 opossum one.AVI
+TP-074,8/9/2014,Didelphis marsupialis,mammal,1,MFDC0020 opossum one.AVI
+TP-074,8/9/2014,Dasyprocta punctata,mammal,2,MFDC0022 agouti two.AVI
+TP-074,8/23/2014,Dasyprocta punctata,mammal,1,MFDC0025 agouti one.AVI
+TP-075,8/23/2014,Dasyprocta punctata,mammal,1,EK000009 agouti one.AVI
+TP-075,8/23/2014,Dasyprocta punctata,mammal,1,EK000010 agouti one.AVI
+TP-075,8/6/2014,Dasyprocta punctata,mammal,2,EK000010 agouti two.AVI
+TP-076,8/10/2014,quail,bird,4,IMG_0010 quail four.AVI
+TP-076,8/14/2014,Dasyprocta punctata,mammal,1,IMG_0039 agouti one.AVI
+TP-076,8/15/2014,Dasyprocta punctata,mammal,1,IMG_0041 agouti one.AVI
+TP-076,8/15/2014,quail,bird,4,IMG_0043 quail four.AVI
+TP-076,8/16/2014,Sciurus sp.,mammal,1,IMG_0044 squirrel one.AVI
+TP-076,8/17/2014,Cuniculus paca,mammal,1,IMG_0045 paca one.AVI
+TP-076,8/17/2014,bird,bird,1,IMG_0047 bird one.AVI
+TP-076,8/19/2014,bird,bird,1,IMG_0054 bird one.AVI
+TP-076,8/22/2014,Didelphis marsupialis,mammal,1,IMG_0055 opossum one.AVI
+TP-076,8/24/2014,Dasyprocta punctata,mammal,1,IMG_0056 agouti one.AVI
+TP-077,8/5/2014,Leopardus pardalis,mammal,2,EK000007 ocelot two unsure.AVI
+TP-077,8/5/2014,bird,bird,1,EK000008 bird one.AVI
+TP-077,8/6/2014,Dasypus novemcinctus,mammal,1,EK000009 nine-banded one.AVI
+TP-077,8/6/2014,Dasypus novemcinctus,mammal,1,EK000010 nine-banded one.AVI
+TP-077,8/8/2014,Dasypus novemcinctus,mammal,1,EK000013 nine-banded one.AVI
+TP-077,8/15/2014,Nasua narica,mammal,4,EK000015 coati four.AVI
+TP-077,8/10/2014,Nasua narica,mammal,3,EK000017 coati three.AVI
+TP-077,8/11/2014,Nasua narica,mammal,1,EK000019 coati one.AVI
+TP-077,8/19/2014,Cuniculus paca,mammal,1,EK000020 paca one.AVI
+TP-077,8/19/2014,Cuniculus paca,mammal,1,EK000021 paca one.AVI
+TP-077,8/23/2014,Dasyprocta punctata,mammal,1,EK000022 agouti one.AVI
+TP-077,8/24/2014,Dasyprocta punctata,mammal,1,EK000023 agouti one.AVI
+TP-078,8/7/2014,bird,bird,1,IMG_0003 bird one.AVI
+TP-078,8/9/2014,bird,bird,1,IMG_0005 bird one.AVI
+TP-078,8/10/2014,bird,bird,1,IMG_0007 bird one.AVI
+TP-078,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0008 agouti one.AVI
+TP-078,8/11/2014,Dasypus novemcinctus,mammal,1,IMG_0009 nine-banded one.AVI
+TP-078,8/12/2014,Dasyprocta punctata,mammal,1,IMG_0011 agouti one.AVI
+TP-078,8/15/2014,bird,bird,1,IMG_0115 bird one.AVI
+TP-078,8/15/2014,bird,bird,1,IMG_0116 bird one.AVI
+TP-078,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0120 nine-banded one.AVI
+TP-078,8/18/2014,bird,bird,1,IMG_0122 bird one.AVI
+TP-078,8/19/2014,bird,bird,1,IMG_0123 bird one.AVI
+TP-078,8/20/2014,Dasyprocta punctata,mammal,1,IMG_0125 agouti one.AVI
+TP-078,8/21/2014,bird,bird,1,IMG_0126 bird one.AVI
+TP-079,8/5/2014,Dasyprocta punctata,mammal,1,IMG_0036 agouti one.AVI
+TP-079,8/9/2014,bird,bird,1,IMG_0040 bird one.AVI
+TP-079,8/9/2014,Nasua narica,mammal,1,IMG_0041 coati one.AVI
+TP-079,8/9/2014,Nasua narica,mammal,5,IMG_0042 coati five good.AVI
+TP-079,8/14/2014,Dasyprocta punctata,mammal,1,IMG_0044 agouti one (2).AVI
+TP-079,8/9/2014,Dasyprocta punctata,mammal,1,IMG_0044 agouti one.AVI
+TP-079,8/15/2014,Dasyprocta punctata,mammal,1,IMG_0045 agouti one.AVI
+TP-079,8/10/2014,quail,bird,3,IMG_0045 quail three.AVI
+TP-079,8/16/2014,bird,bird,1,IMG_0048 bird one.AVI
+TP-079,8/17/2014,Cuniculus paca,mammal,1,IMG_0050 paca one.AVI
+TP-079,8/18/2014,bird,bird,1,IMG_0051 bird one.AVI
+TP-079,8/18/2014,bird,bird,2,IMG_0052 bird two.AVI
+TP-079,8/19/2014,Dasyprocta punctata,mammal,1,IMG_0054 agouti one.AVI
+TP-079,8/19/2014,Dasyprocta punctata,mammal,1,IMG_0055 agouti one.AVI
+TP-079,8/20/2014,quail,bird,2,IMG_0056 quail two.AVI
+TP-080,8/7/2014,bird,bird,1,IMG_0019 bird one.AVI
+TP-080,8/7/2014,bird,bird,1,IMG_0027 bird one.AVI
+TP-080,8/9/2014,Leopardus pardalis,mammal,1,IMG_0029 ocelot one good.AVI
+TP-080,8/9/2014,Leopardus pardalis,mammal,1,IMG_0030 ocelot one.AVI
+TP-080,8/9/2014,Leopardus pardalis,mammal,1,IMG_0031 ocelot one.AVI
+TP-080,8/9/2014,Leopardus pardalis,mammal,1,IMG_0032 ocelot one.AVI
+TP-080,8/15/2014,Nasua narica,mammal,4,IMG_0097 coati four.AVI
+TP-080,8/15/2014,Nasua narica,mammal,2,IMG_0098 coati two.AVI
+TP-080,8/23/2014,Eira barbara,mammal,1,IMG_0100 eira one.AVI
+TP-081,8/6/2014,Dasypus novemcinctus,mammal,1,IMG_0024 nine-banded one.AVI
+TP-081,8/7/2014,orange sparrow,bird,1,IMG_0033 orange_sparrow one.AVI
+TP-081,8/8/2014,bird,bird,1,IMG_0034 bird one pooping.AVI
+TP-081,8/8/2014,little tinamou,bird,1,IMG_0035 little_tinamou one.AVI
+TP-081,8/11/2014,bird,bird,1,IMG_0041 bird one.AVI
+TP-081,8/12/2014,bird,bird,1,IMG_0042 bird one.AVI
+TP-081,8/12/2014,quail,bird,4,IMG_0047 quail four.AVI
+TP-081,8/12/2014,bird,bird,1,IMG_0048 bird one.AVI
+TP-081,8/13/2014,bird,bird,1,IMG_0053 bird one.AVI
+TP-081,8/13/2014,bird,bird,1,IMG_0054 bird one.AVI
+TP-081,8/13/2014,bird,bird,1,IMG_0055 bird one.AVI
+TP-081,8/15/2014,bird,bird,1,IMG_0063 bird one.AVI
+TP-081,8/15/2014,bird,bird,1,IMG_0064 bird one.AVI
+TP-081,8/16/2014,bird,bird,1,IMG_0065 bird one.AVI
+TP-081,8/16/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-081,8/17/2014,bird,bird,1,IMG_0067 bird one.AVI
+TP-081,8/17/2014,quail,bird,1,IMG_0068 quail one.AVI
+TP-081,8/17/2014,quail,bird,2,IMG_0069 quail two.AVI
+TP-081,8/17/2014,quail,bird,2,IMG_0070 quail two.AVI
+TP-081,8/17/2014,quail,bird,2,IMG_0071 quail two.AVI
+TP-081,8/17/2014,quail,bird,2,IMG_0072 quail two.AVI
+TP-081,8/19/2014,bird,bird,1,IMG_0073 bird one.AVI
+TP-081,8/19/2014,bird,bird,1,IMG_0074 bird one.AVI
+TP-081,8/20/2014,bird,bird,1,IMG_0075 bird one.AVI
+TP-081,8/20/2014,bird,bird,1,IMG_0077 bird one.AVI
+TP-081,8/20/2014,bird,bird,1,IMG_0078 bird one.AVI
+TP-081,8/21/2014,Cuniculus paca,mammal,1,IMG_0080 paca one.AVI
+TP-081,8/21/2014,Cuniculus paca,mammal,1,IMG_0081 paca one.AVI
+TP-081,8/21/2014,Dasypus novemcinctus,mammal,1,IMG_0082 nine-banded one.AVI
+TP-081,8/21/2014,Dasypus novemcinctus,mammal,1,IMG_0083 nine-banded one.AVI
+TP-081,8/21/2014,Dasypus novemcinctus,mammal,1,IMG_0084 nine-banded one.AVI
+TP-081,8/21/2014,Dasypus novemcinctus,mammal,1,IMG_0085 nine-banded one.AVI
+TP-081,8/21/2014,bird,bird,1,IMG_0087 bird one.AVI
+TP-081,8/21/2014,bird,bird,1,IMG_0088 bird one.AVI
+TP-081,8/22/2014,quail,bird,1,IMG_0089 quail one.AVI
+TP-081,8/22/2014,quail,bird,4,IMG_0091 quail four.AVI
+TP-081,8/22/2014,quail,bird,1,IMG_0092 quail one.AVI
+TP-081,8/22/2014,quail,bird,2,IMG_0093 quail two.AVI
+TP-081,8/23/2014,bird,bird,1,IMG_0100 bird one.AVI
+TP-081,8/23/2014,bird,bird,1,IMG_0101 bird one.AVI
+TP-083,8/6/2014,Cuniculus paca,mammal,1,IMG_0007 paca one.AVI
+TP-083,8/6/2014,Sciurus sp.,mammal,1,IMG_0008 squirrel one.AVI
+TP-083,8/7/2014,Cuniculus paca,mammal,1,IMG_0010 paca one.AVI
+TP-083,8/7/2014,Dasyprocta punctata,mammal,1,IMG_0012 agouti one.AVI
+TP-083,8/9/2014,Dasyprocta punctata,mammal,1,IMG_0017 agouti one.AVI
+TP-083,8/14/2014,Dasypus novemcinctus,mammal,1,IMG_0031 nine-banded one.AVI
+TP-083,8/14/2014,Sciurus sp.,mammal,1,IMG_0032 squirrel one.AVI
+TP-083,8/15/2014,bird,bird,1,IMG_0037 bird one.AVI
+TP-083,8/18/2014,Cuniculus paca,mammal,1,IMG_0041 paca one.AVI
+TP-083,8/18/2014,Cuniculus paca,mammal,1,IMG_0042 paca one.AVI
+TP-083,8/18/2014,Cuniculus paca,mammal,1,IMG_0043 paca one.AVI
+TP-083,8/18/2014,Cuniculus paca,mammal,1,IMG_0044 paca one.AVI
+TP-083,8/18/2014,Cuniculus paca,mammal,1,IMG_0045 paca one.AVI
+TP-083,8/21/2014,Dasyprocta punctata,mammal,1,IMG_0052 agouti one.AVI
+TP-083,8/22/2014,Dasyprocta punctata,mammal,1,IMG_0054 agouti one.AVI
+TP-083,8/23/2014,Dasyprocta punctata,mammal,1,IMG_0055 agouti one.AVI
+TP-083,8/24/2014,Cuniculus paca,mammal,1,IMG_0057 paca one.AVI
+TP-083,8/24/2014,Eira barbara,mammal,1,IMG_0058 eira one good.AVI
+TP-084,8/16/2014,Dasypus novemcinctus,mammal,1,EK000024 nine-banded one.AVI
+TP-084,8/17/2014,Cuniculus paca,mammal,1,EK000025 paca one.AVI
+TP-084,8/18/2014,Philander sp.,mammal,4,EK000027 four-eye one.AVI
+TP-084,8/18/2014,Philander sp.,mammal,4,EK000029 four-eye one.AVI
+TP-084,8/18/2014,bird,bird,1,EK000030 bird one.AVI
+TP-084,8/23/2014,Philander sp.,mammal,4,EK000032 four-eye one.AVI
+TP-085,8/6/2014,quail,bird,2,IMG_0005 quail two.AVI
+TP-085,8/9/2014,bird,bird,1,IMG_0008 bird one.AVI
+TP-085,8/9/2014,bird,bird,1,IMG_0011 bird one.AVI
+TP-085,8/10/2014,Nasua narica,mammal,3,IMG_0012 coati three.AVI
+TP-085,8/14/2014,Dasypus novemcinctus,mammal,1,IMG_0056 nine-banded one.AVI
+TP-085,8/14/2014,Dasypus novemcinctus,mammal,1,IMG_0057 nine-banded one.AVI
+TP-085,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0059 nine-banded one.AVI
+TP-085,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0060 nine-banded one.AVI
+TP-085,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0061 nine-banded one.AVI
+TP-085,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0062 nine-banded one.AVI
+TP-085,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0063 nine-banded one.AVI
+TP-085,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0064 nine-banded one.AVI
+TP-085,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0065 nine-banded one.AVI
+TP-085,8/17/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-085,8/17/2014,bird,bird,1,IMG_0067 bird one.AVI
+TP-085,8/17/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-085,8/20/2014,quail,bird,1,IMG_0074 quail one.AVI
+TP-085,8/23/2014,Dasypus novemcinctus,mammal,1,IMG_0076 nine-banded one.AVI
+TP-085,8/23/2014,Dasypus novemcinctus,mammal,1,IMG_0078 nine-banded one.AVI
+TP-085,8/23/2014,Dasypus novemcinctus,mammal,1,IMG_0079 nine-banded one.AVI
+TP-085,8/23/2014,Dasypus novemcinctus,mammal,1,IMG_0080 nine-banded one.AVI
+TP-085,8/23/2014,Dasypus novemcinctus,mammal,1,IMG_0081 nine-banded one.AVI
+TP-085,8/23/2014,bird,bird,1,IMG_0084 bird one.AVI
+TP-085,8/24/2014,Dasypus novemcinctus,mammal,1,IMG_0085 nine-banded one.AVI
+TP-085,8/24/2014,Dasypus novemcinctus,mammal,1,IMG_0086 nine-banded one.AVI
+TP-086,8/6/2014,Dasyprocta punctata,mammal,1,IMG_0007 agouti one.AVI
+TP-086,8/15/2014,Leopardus pardalis,mammal,1,IMG_0016 ocelot one.AVI
+TP-086,8/24/2014,Dasypus novemcinctus,mammal,1,IMG_0041 nine-banded one.AVI
+TP-087,8/4/2014,Dasypus novemcinctus,mammal,1,IMG_0008 nine-banded one.AVI
+TP-087,8/5/2014,Dasypus novemcinctus,mammal,1,IMG_0009 nine-banded one.AVI
+TP-087,8/5/2014,Dasyprocta punctata,mammal,1,IMG_0010 agouti one.AVI
+TP-087,8/15/2014,bird,bird,1,IMG_0012 bird one.AVI
+TP-087,8/16/2014,Dasypus novemcinctus,mammal,1,IMG_0013 nine-banded one.AVI
+TP-087,8/5/2014,Dasyprocta punctata,mammal,1,IMG_0015 agouti one.AVI
+TP-087,8/17/2014,Dasypus novemcinctus,mammal,1,IMG_0015 nine-banded one.AVI
+TP-087,8/6/2014,bird,bird,1,IMG_0017 bird one.AVI
+TP-087,8/20/2014,Dasypus novemcinctus,mammal,1,IMG_0019 nine-banded one.AVI
+TP-087,8/20/2014,Dasyprocta punctata,mammal,1,IMG_0020 agouti one.AVI
+TP-087,8/7/2014,bird,bird,1,IMG_0020 bird one.AVI
+TP-087,8/7/2014,bird,bird,1,IMG_0021 bird one.AVI
+TP-087,8/20/2014,Puma yagouaroundi,mammal,1,IMG_0022 jaguarundi one unsure.AVI
+TP-087,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0024 agouti one.AVI
+TP-087,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0025 agouti one.AVI
+TP-087,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0026 agouti one.AVI
+TP-087,8/22/2014,Dasyprocta punctata,mammal,1,IMG_0032 agouti one.AVI
+TP-087,8/22/2014,Dasyprocta punctata,mammal,1,IMG_0033 agouti one.AVI
+TP-087,8/23/2014,quail,bird,3,IMG_0034 quail three.AVI
+TP-087,8/24/2014,quail,bird,5,IMG_0035 quail five.AVI
+TP-087,8/24/2014,quail,bird,3,IMG_0036 quail three.AVI
+TP-087,8/9/2014,bird,bird,1,IMG_0046 bird one.AVI
+TP-087,8/12/2014,bird,bird,1,IMG_0048 bird one singing.AVI
+TP-087,8/12/2014,Dasyprocta punctata,mammal,1,IMG_0050 agouti one.AVI
+TP-087,8/13/2014,bird,bird,2,IMG_0051 bird two.AVI
+TP-087,8/14/2014,Dasyprocta punctata,mammal,1,IMG_0052 agouti one.AVI
+TP-088,8/15/2014,bird,bird,1,IMG_0020 bird one.AVI
+TP-088,8/18/2014,Cuniculus paca,mammal,1,IMG_0021 paca one.AVI
+TP-088,8/19/2014,Dasyprocta punctata,mammal,1,IMG_0025 agouti one good.AVI
+TP-088,8/19/2014,Dasyprocta punctata,mammal,1,IMG_0026 agouti one.AVI
+TP-088,8/20/2014,Leopardus pardalis,mammal,1,IMG_0027 ocelot one.AVI
+TP-088,8/3/2014,Dasyprocta punctata,mammal,1,IMG_0028 agouti one.AVI
+TP-088,8/3/2014,Dasyprocta punctata,mammal,1,IMG_0029 agouti one.AVI
+TP-088,8/23/2014,bird,bird,1,IMG_0032 bird one.AVI
+TP-088,8/24/2014,Eira barbara,mammal,1,IMG_0033 eira one good.AVI
+TP-088,8/4/2014,orange sparrow,bird,1,IMG_0033 orange_sparrow one.AVI
+TP-088,8/4/2014,Dasyprocta punctata,mammal,1,IMG_0035 agouti one.AVI
+TP-088,8/10/2014,bird,bird,1,IMG_0052 bird one.AVI
+TP-090,8/17/2014,little tinamou,bird,1,EK000016 little_tinamou one.AVI
+TP-090,8/19/2014,Sciurus sp.,mammal,1,EK000020 squirrel one.AVI
+TP-090,8/20/2014,little tinamou,bird,1,EK000021 little_tinamou one.AVI
+TP-090,8/20/2014,Sciurus sp.,mammal,1,EK000022 squirrel one.AVI
+TP-090,8/21/2014,Eira barbara,mammal,1,EK000024 eira one.AVI
+TP-090,8/21/2014,bird,bird,1,EK000025 bird one.AVI
+TP-090,8/21/2014,bird,bird,1,EK000026 bird one.AVI
+TP-091,8/16/2014,Dasyprocta punctata,mammal,1,IMG_0007 agouti one.AVI
+TP-091,8/20/2014,Dasypus novemcinctus,mammal,1,IMG_0009 nine-banded one (2).AVI
+TP-091,8/4/2014,Dasypus novemcinctus,mammal,1,IMG_0009 nine-banded one.AVI
+TP-091,8/24/2014,Dasyprocta punctata,mammal,1,IMG_0011 agouti one.AVI
+TP-091,8/11/2014,Dasyprocta punctata,mammal,1,IMG_0022 agouti one.AVI
+TP-091,8/13/2014,Dasypus novemcinctus,mammal,1,IMG_0023 nine-banded one.AVI
+TP-092,8/3/2014,Dasyprocta punctata,mammal,1,IMG_0012 agouti one.AVI
+TP-092,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0015 agouti one unsure.AVI
+TP-093,8/5/2014,Didelphis marsupialis,mammal,1,EK000005 opossum one.AVI
+TP-093,8/13/2014,Dasyprocta punctata,mammal,1,EK000009 agouti one.AVI
+TP-094,8/4/2014,Dasyprocta punctata,mammal,2,IMG_0017 agouti two.AVI
+TP-094,8/5/2014,Dasyprocta punctata,mammal,1,IMG_0020 agouti one good.AVI
+TP-094,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0022 agouti one.AVI
+TP-094,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0023 agouti one.AVI
+TP-094,8/11/2014,Dasyprocta punctata,mammal,1,IMG_0024 agouti one.AVI
+TP-094,8/15/2014,Dasyprocta punctata,mammal,2,IMG_0026 agouti two.AVI
+TP-094,8/16/2014,Dasyprocta punctata,mammal,1,IMG_0047 agouti one.AVI
+TP-094,8/21/2014,Dasyprocta punctata,mammal,1,IMG_0053 agouti one.AVI
+TP-094,8/21/2014,Dasyprocta punctata,mammal,1,IMG_0054 agouti one.AVI
+TP-094,8/22/2014,Dasyprocta punctata,mammal,1,IMG_0055 agouti one.AVI
+TP-094,8/24/2014,Dasyprocta punctata,mammal,1,IMG_0060 agouti one.AVI
+TP-094,8/25/2014,Dasyprocta punctata,mammal,1,IMG_0062 agouti one.AVI
+TP-095,8/4/2014,bird,bird,1,MFDC0009 bird one.AVI
+TP-095,8/6/2014,bird,bird,1,MFDC0010 bird one.AVI
+TP-095,8/10/2014,Didelphis marsupialis,mammal,1,MFDC0016 opossum one.AVI
+TP-096,8/18/2014,bird,bird,1,IMG_0001 (2) bird one.AVI
+TP-096,8/20/2014,bird,bird,1,IMG_0004 (2) bird one.AVI
+TP-096,8/20/2014,Dasyprocta punctata,mammal,1,IMG_0005 (2) agouti one.AVI
+TP-096,8/20/2014,Dasyprocta punctata,mammal,1,IMG_0006 (2) agouti one.AVI
+TP-096,8/7/2014,Dasyprocta punctata,mammal,1,IMG_0009 agouti one.AVI
+TP-096,8/8/2014,Tamandua mexicana,mammal,1,IMG_0010 tamandua one good.AVI
+TP-096,8/21/2014,Cuniculus paca,mammal,1,IMG_0011 (2) paca one.AVI
+TP-096,8/23/2014,Cuniculus paca,mammal,1,IMG_0013 (2) paca one.AVI
+TP-096,8/24/2014,Didelphis marsupialis,mammal,1,IMG_0017 (2) opossum one.AVI
+TP-096,8/25/2014,Didelphis marsupialis,mammal,1,IMG_0020 (2) opossum one.AVI
+TP-096,8/15/2014,Cuniculus paca,mammal,1,IMG_0022 paca one.AVI
+TP-096,8/25/2014,Didelphis marsupialis,mammal,1,IMG_0024 (2) opossum one.AVI
+TP-096,8/25/2014,Dasyprocta punctata,mammal,1,IMG_0025 (2) agouti one.AVI
+TP-096,8/16/2014,Dasyprocta punctata,mammal,1,IMG_0025 agouti one.AVI
+TP-096,8/16/2014,Dasyprocta punctata,mammal,1,IMG_0026 agouti one.AVI
+TP-096,8/16/2014,Dasyprocta punctata,mammal,1,IMG_0027 agouti one.AVI
+TP-096,8/17/2014,bird,bird,1,IMG_0029 bird one.AVI
+TP-096,8/18/2014,Cuniculus paca,mammal,1,IMG_0031 paca one.AVI
+TP-096,8/18/2014,Dasypus novemcinctus,mammal,1,IMG_0033 nine-banded one.AVI
+TP-098,8/14/2014,Cuniculus paca,mammal,1,IMG_0005 paca one.AVI
+TP-098,8/17/2014,Cuniculus paca,mammal,1,IMG_0006 paca one.AVI
+TP-099,8/5/2014,Philander sp.,mammal,4,IMG_0004 four-eye one.AVI
+TP-099,8/13/2014,Philander sp.,mammal,4,IMG_0008 four-eye one.AVI
+TP-100,8/5/2014,Dasypus novemcinctus,mammal,1,IMG_0008 nine-banded one.AVI
+TP-100,8/5/2014,Dasypus novemcinctus,mammal,1,IMG_0009 nine-banded one.AVI
+TP-100,8/5/2014,Didelphis marsupialis,mammal,1,IMG_0013 opossum one.AVI
+TP-100,8/5/2014,Philander sp.,mammal,4,IMG_0016 four-eye one.AVI
+TP-100,8/5/2014,Philander sp.,mammal,4,IMG_0017 four-eye one.AVI
+TP-100,8/5/2014,Philander sp.,mammal,4,IMG_0018 four-eye one.AVI
+TP-100,8/5/2014,Philander sp.,mammal,4,IMG_0019 four-eye one.AVI
+TP-100,8/5/2014,bird,bird,1,IMG_0021 bird one.AVI
+TP-100,8/5/2014,bird,bird,1,IMG_0022 bird one.AVI
+TP-100,8/5/2014,bird,bird,1,IMG_0023 bird one.AVI
+TP-100,8/5/2014,bird,bird,1,IMG_0024 bird one.AVI
+TP-100,8/5/2014,bird,bird,1,IMG_0025 bird one.AVI
+TP-100,8/6/2014,bird,bird,1,IMG_0035 bird one.AVI
+TP-100,8/6/2014,bird,bird,1,IMG_0037 bird one.AVI
+TP-100,8/6/2014,Dasyprocta punctata,mammal,1,IMG_0038 agouti one.AVI
+TP-100,8/6/2014,bird,bird,1,IMG_0039 bird one.AVI
+TP-100,8/7/2014,Philander sp.,mammal,4,IMG_0040 four-eye one.AVI
+TP-100,8/7/2014,Cuniculus paca,mammal,1,IMG_0044 paca one.AVI
+TP-100,8/7/2014,Cuniculus paca,mammal,1,IMG_0045 paca one.AVI
+TP-100,8/7/2014,Cuniculus paca,mammal,1,IMG_0046 paca one.AVI
+TP-100,8/7/2014,Sciurus sp.,mammal,1,IMG_0048 squirrel one.AVI
+TP-100,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0050 agouti one.AVI
+TP-100,8/8/2014,Dasyprocta punctata,mammal,2,IMG_0051 agouti two.AVI
+TP-100,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0052 agouti one.AVI
+TP-100,8/8/2014,Dasyprocta punctata,mammal,1,IMG_0053 agouti one.AVI
+TP-100,8/9/2014,Philander sp.,mammal,4,IMG_0055 four-eye one.AVI
+TP-100,8/9/2014,bird,bird,1,IMG_0056 bird one.AVI
+TP-100,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0057 agouti one.AVI
+TP-100,8/19/2014,Philander sp.,mammal,4,IMG_0059 (2) four-eye one.AVI
+TP-100,8/20/2014,Cuniculus paca,mammal,1,IMG_0060 (2) paca one.AVI
+TP-100,8/11/2014,Dasypus novemcinctus,mammal,1,IMG_0060 nine-banded one.AVI
+TP-100,8/20/2014,Cuniculus paca,mammal,1,IMG_0061 (2) paca one.AVI
+TP-100,8/20/2014,Cuniculus paca,mammal,1,IMG_0062 (2) paca one.AVI
+TP-100,8/20/2014,Cuniculus paca,mammal,1,IMG_0063 (2) paca one.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,2,IMG_0063 agouti two good.AVI
+TP-100,8/20/2014,Cuniculus paca,mammal,1,IMG_0064 (2) paca one.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,2,IMG_0064 agouti two.AVI
+TP-100,8/20/2014,Cuniculus paca,mammal,1,IMG_0065 (2) paca one.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,2,IMG_0065 agouti two.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,2,IMG_0066 agouti two.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,2,IMG_0067 agouti two.AVI
+TP-100,8/20/2014,Philander sp.,mammal,4,IMG_0068 (2) four-eye one.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,2,IMG_0068 agouti two.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,2,IMG_0069 agouti two.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,1,IMG_0070 agouti one.AVI
+TP-100,8/11/2014,Dasyprocta punctata,mammal,1,IMG_0071 agouti one.AVI
+TP-100,8/12/2014,bird,bird,1,IMG_0077 bird one.AVI
+TP-100,8/12/2014,bird,bird,1,IMG_0078 bird one.AVI
+TP-100,8/13/2014,Dasypus novemcinctus,mammal,1,IMG_0081 nine-banded one.AVI
+TP-100,8/25/2014,Philander sp.,mammal,4,IMG_0084 (2) four-eye one.AVI
+TP-100,8/13/2014,Sciurus sp.,mammal,1,IMG_0085 squirrel one.AVI
+TP-100,8/13/2014,Dasypus novemcinctus,mammal,1,IMG_0086 nine-banded one.AVI
+TP-100,8/25/2014,bird,bird,1,IMG_0087 (2) bird one.AVI
+TP-100,8/15/2014,Nasua narica,mammal,1,IMG_0100 coati one.AVI
+TP-100,8/16/2014,Cuniculus paca,mammal,1,IMG_0102 paca one.AVI
+TP-100,8/16/2014,Cuniculus paca,mammal,1,IMG_0103 paca one.AVI
+TP-100,8/16/2014,Dasyprocta punctata,mammal,1,IMG_0109 agouti one.AVI
+TP-100,8/17/2014,Philander sp.,mammal,4,IMG_0111 four-eye one.AVI
+TP-100,8/18/2014,Cuniculus paca,mammal,1,IMG_0115 paca one.AVI
+TP-100,8/18/2014,Cuniculus paca,mammal,1,IMG_0116 paca one.AVI
+TP-100,8/18/2014,Cuniculus paca,mammal,1,IMG_0117 paca one.AVI
+TP-100,8/18/2014,Cuniculus paca,mammal,1,IMG_0118 paca one.AVI
+TP-100,8/18/2014,Cuniculus paca,mammal,1,IMG_0119 paca one.AVI
+TP-100,8/18/2014,Sciurus sp.,mammal,1,IMG_0121 squirrel one.AVI
+TP-100,8/18/2014,bird,bird,1,IMG_0122 bird one.AVI
+TP-101,8/5/2014,Dasypus novemcinctus,mammal,1,IMG_0012 nine-banded one.AVI
+TP-101,8/6/2014,bird,bird,1,IMG_0014 bird one.AVI
+TP-101,8/6/2014,Dasyprocta punctata,mammal,1,IMG_0015 agouti one.AVI
+TP-101,8/6/2014,bird,bird,1,IMG_0016 bird one.AVI
+TP-101,8/6/2014,bird,bird,1,IMG_0017 bird one.AVI
+TP-101,8/6/2014,bird,bird,1,IMG_0018 bird one.AVI
+TP-101,8/7/2014,bird,bird,1,IMG_0019 bird one.AVI
+TP-101,8/7/2014,bird,bird,2,IMG_0021 bird two good.AVI
+TP-101,8/7/2014,bird,bird,2,IMG_0022 bird two good sex.AVI
+TP-101,8/7/2014,bird,bird,1,IMG_0024 bird one.AVI
+TP-101,8/8/2014,Cuniculus paca,mammal,1,IMG_0025 paca one.AVI
+TP-101,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0026 (2) nine-banded one.AVI
+TP-101,8/8/2014,Cuniculus paca,mammal,1,IMG_0026 paca one.AVI
+TP-101,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0027 (2) nine-banded one.AVI
+TP-101,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0028 (2) nine-banded one.AVI
+TP-101,8/8/2014,bird,bird,1,IMG_0028 bird one.AVI
+TP-101,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0029 (2) nine-banded one.AVI
+TP-101,8/8/2014,bird,bird,1,IMG_0029 bird one.AVI
+TP-101,8/19/2014,Dasypus novemcinctus,mammal,1,IMG_0030 (2) nine-banded one.AVI
+TP-101,8/19/2014,bird,bird,1,IMG_0031 (2) bird one.AVI
+TP-101,8/9/2014,bird,bird,2,IMG_0031 bird two.AVI
+TP-101,8/19/2014,bird,bird,1,IMG_0032 (2) bird one.AVI
+TP-101,8/19/2014,bird,bird,1,IMG_0033 (2) bird one.AVI
+TP-101,8/19/2014,bird,bird,1,IMG_0034 (2) bird one.AVI
+TP-101,8/10/2014,Dasyprocta punctata,mammal,1,IMG_0034 agouti one.AVI
+TP-101,8/19/2014,bird,bird,1,IMG_0035 (2) bird one.AVI
+TP-101,8/10/2014,bird,bird,1,IMG_0035 bird one.AVI
+TP-101,8/20/2014,Cuniculus paca,mammal,1,IMG_0036 (2) paca one.AVI
+TP-101,8/10/2014,bird,bird,1,IMG_0036 bird one.AVI
+TP-101,8/20/2014,Cuniculus paca,mammal,1,IMG_0037 (2) paca one.AVI
+TP-101,8/11/2014,bird,bird,1,IMG_0037 bird one.AVI
+TP-101,8/11/2014,bird,bird,1,IMG_0038 bird one.AVI
+TP-101,8/11/2014,bird,bird,1,IMG_0039 bird one.AVI
+TP-101,8/12/2014,Cuniculus paca,mammal,1,IMG_0040 paca one.AVI
+TP-101,8/12/2014,Cuniculus paca,mammal,1,IMG_0041 paca one.AVI
+TP-101,8/12/2014,Cuniculus paca,mammal,1,IMG_0042 paca one.AVI
+TP-101,8/12/2014,Cuniculus paca,mammal,2,IMG_0043 paca two.AVI
+TP-101,8/12/2014,Sciurus sp.,mammal,1,IMG_0045 squirrel one.AVI
+TP-101,8/12/2014,bird,bird,1,IMG_0046 bird one.AVI
+TP-101,8/12/2014,bird,bird,1,IMG_0047 bird one.AVI
+TP-101,8/13/2014,Cuniculus paca,mammal,1,IMG_0050 paca one.AVI
+TP-101,8/13/2014,Cuniculus paca,mammal,1,IMG_0051 paca one.AVI
+TP-101,8/13/2014,bird,bird,1,IMG_0052 bird one.AVI
+TP-101,8/13/2014,bird,bird,1,IMG_0053 bird one.AVI
+TP-101,8/13/2014,bird,bird,1,IMG_0054 bird one.AVI
+TP-101,8/14/2014,bird,bird,1,IMG_0056 bird one.AVI
+TP-101,8/16/2014,bird,bird,1,IMG_0058 bird one.AVI
+TP-101,8/16/2014,bird,bird,1,IMG_0059 bird one.AVI
+TP-101,8/16/2014,bird,bird,1,IMG_0060 bird one.AVI
+TP-101,8/17/2014,bird,bird,1,IMG_0061 bird one.AVI
+TP-101,8/18/2014,Cuniculus paca,mammal,1,IMG_0062 paca one.AVI
+TP-101,8/18/2014,Cuniculus paca,mammal,1,IMG_0063 paca one.AVI
+TP-101,8/18/2014,bird,bird,1,IMG_0064 bird one.AVI
+TP-101,8/18/2014,bird,bird,1,IMG_0067 bird one.AVI
+TP-101,8/18/2014,bird,bird,1,IMG_0068 bird one.AVI
+TP-101,8/18/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-101,8/18/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-102,8/20/2014,Philander sp.,mammal,4,IMG_0002 four-eye one.AVI
+TP-102,8/20/2014,Philander sp.,mammal,4,IMG_0003 four-eye one.AVI
+TP-102,8/21/2014,Leopardus pardalis,mammal,1,IMG_0004 ocelot one.AVI
+TP-102,8/22/2014,Dasyprocta punctata,mammal,1,IMG_0005 agouti one.AVI
+TP-102,8/23/2014,Cuniculus paca,mammal,1,IMG_0008 paca one.AVI
+TP-102,8/23/2014,Cuniculus paca,mammal,1,IMG_0009 (2) paca one.AVI
+TP-102,8/23/2014,Dasyprocta punctata,mammal,1,IMG_0010 (2) agouti one.AVI
+TP-102,8/23/2014,Dasyprocta punctata,mammal,1,IMG_0011 (2) agouti one.AVI
+TP-102,8/24/2014,Sciurus sp.,mammal,1,IMG_0013 squirrel one.AVI
+TP-102,8/24/2014,Sciurus sp.,mammal,1,IMG_0014 squirrel one.AVI
+TP-102,8/24/2014,Sciurus sp.,mammal,1,IMG_0015 squirrel one.AVI
+TP-104,8/6/2014,Nasua narica,mammal,4,IMG_0003 coati four.AVI
+TP-104,8/6/2014,Nasua narica,mammal,4,IMG_0004 coati four.AVI
+TP-104,8/14/2014,Dasyprocta punctata,mammal,1,IMG_0007 agouti one.AVI
+TP-107,8/17/2014,Nasua narica,mammal,1,IMG_0057 coati one.AVI
+TP-107,8/17/2014,bird,bird,1,IMG_0058 bird one.AVI
+TP-107,8/17/2014,quail,bird,3,IMG_0060 quail three.AVI
+TP-107,8/19/2014,Sciurus sp.,mammal,1,IMG_0061 squirrel one.AVI
+TP-107,8/19/2014,bird,bird,1,IMG_0062 bird one.AVI
+TP-107,8/20/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-107,8/20/2014,bird,bird,1,IMG_0067 bird one.AVI
+TP-107,8/20/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-107,8/21/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-107,8/22/2014,bird,bird,1,IMG_0071 bird one.AVI
+TP-108,9/4/2014,bird,bird,1,IMG_0010 bird one.AVI
+TP-108,9/6/2014,bird,bird,1,IMG_0012 bird one.AVI
+TP-108,9/7/2014,bird,bird,1,IMG_0013 bird one.AVI
+TP-109,9/3/2014,bird,bird,1,IMG_0016 bird one.AVI
+TP-109,9/5/2014,bird,bird,1,IMG_0029 bird one.AVI
+TP-109,9/5/2014,bird,bird,1,IMG_0030 bird one.AVI
+TP-109,9/6/2014,bird,bird,1,IMG_0043 bird one.AVI
+TP-109,9/7/2014,bird,bird,1,IMG_0044 bird one.AVI
+TP-109,9/7/2014,bird,bird,2,IMG_0045 bird two.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0053 raccoon two.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0054 raccoon two.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0055 raccoon two.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0056 raccoon two.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0057 raccoon two good.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0058 raccoon two good.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0059 raccoon two.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,1,IMG_0060 raccoon one.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,1,IMG_0061 raccoon one.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,1,IMG_0062 raccoon one.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,2,IMG_0063 raccoon two good.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,4,IMG_0064 raccoon four good.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,4,IMG_0065 raccoon four good.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,4,IMG_0066 raccoon four.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,4,IMG_0067 raccoon four.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,4,IMG_0068 raccoon four.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,3,IMG_0069 raccoon three.AVI
+TP-109,9/8/2014,Procyon cancrivorus,mammal,1,IMG_0070 raccoon one.AVI
+TP-109,9/12/2014,bird,bird,3,IMG_0086 bird three.AVI
+TP-109,9/12/2014,bird,bird,3,IMG_0087 bird three.AVI
+TP-109,9/12/2014,bird,bird,2,IMG_0090 bird two.AVI
+TP-109,9/15/2014,bird,bird,1,IMG_0096 bird one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0098 raccoon one good.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0099 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0100 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0101 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0102 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0103 raccoon one good.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0104 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0105 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0106 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0107 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0108 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0109 raccoon one.AVI
+TP-109,9/16/2014,Procyon cancrivorus,mammal,1,IMG_0110 raccoon one.AVI
+TP-109,9/16/2014,bird,bird,1,IMG_0111 bird one.AVI
+TP-109,9/17/2014,Procyon cancrivorus,mammal,2,IMG_0113 raccoon two.AVI
+TP-109,9/17/2014,Procyon cancrivorus,mammal,2,IMG_0114 raccoon two.AVI
+TP-109,9/17/2014,Procyon cancrivorus,mammal,3,IMG_0115 raccoon three.AVI
+TP-110,9/2/2014,Dasyprocta punctata,mammal,1,IMG_0014 agouti one.AVI
+TP-112,9/4/2014,Dasypus novemcinctus,mammal,1,MFDC0004 nine-banded one.AVI
+TP-112,9/8/2014,Dasyprocta punctata,mammal,1,MFDC0006 agouti one.AVI
+TP-112,9/9/2014,Dasyprocta punctata,mammal,1,MFDC0008 agouti one.AVI
+TP-112,9/9/2014,Dasyprocta punctata,mammal,1,MFDC0009 agouti one.AVI
+TP-112,9/11/2014,Dasyprocta punctata,mammal,1,MFDC0010 agouti one.AVI
+TP-112,9/17/2014,Dasypus novemcinctus,mammal,1,MFDC0017 nine-banded one.AVI
+TP-114,9/18/2014,Tamandua mexicana,mammal,1,IMG_0096 tamandua one good.AVI
+TP-115,9/3/2014,Tamandua mexicana,mammal,1,IMG_0025 tamandua one.AVI
+TP-115,9/3/2014,Tamandua mexicana,mammal,1,IMG_0026 tamandua one.AVI
+TP-115,9/3/2014,Nasua narica,mammal,1,IMG_0028 coati one good.AVI
+TP-115,9/7/2014,Nasua narica,mammal,1,IMG_0029 coati one.AVI
+TP-115,9/10/2014,bird,bird,1,IMG_0031 bird one.AVI
+TP-115,9/11/2014,bird,bird,1,IMG_0032 bird one.AVI
+TP-116,9/2/2014,Tamandua mexicana,mammal,1,IMG_0004 tamandua one.AVI
+TP-116,9/2/2014,Tamandua mexicana,mammal,1,IMG_0005 tamandua one.AVI
+TP-116,9/3/2014,bird,bird,1,IMG_0006 bird one.AVI
+TP-116,9/3/2014,bird,bird,1,IMG_0007 bird one.AVI
+TP-116,9/3/2014,bird,bird,1,IMG_0008 bird one.AVI
+TP-116,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0011 nine-banded one.AVI
+TP-116,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0012 nine-banded one good.AVI
+TP-116,9/8/2014,Dasyprocta punctata,mammal,1,IMG_0028 agouti one good.AVI
+TP-116,9/8/2014,Dasyprocta punctata,mammal,2,IMG_0029 agouti two.AVI
+TP-116,9/8/2014,Dasyprocta punctata,mammal,1,IMG_0030 agouti one.AVI
+TP-116,9/8/2014,Dasyprocta punctata,mammal,1,IMG_0031 agouti one.AVI
+TP-116,9/14/2014,bird,bird,1,IMG_0036 bird one.AVI
+TP-116,9/16/2014,bird,bird,1,IMG_0039 bird one.AVI
+TP-116,9/18/2014,bird,bird,1,IMG_0044 bird one.AVI
+TP-116,9/18/2014,bird,bird,1,IMG_0046 bird one.AVI
+TP-117,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0003 nine-banded one.AVI
+TP-119,9/3/2014,Eira barbara,mammal,1,IMG_0009 eira one.AVI
+TP-119,9/14/2014,Dasypus novemcinctus,mammal,1,IMG_0017 nine-banded one.AVI
+TP-120,9/6/2014,bird,bird,1,IMG_0003 bird one.AVI
+TP-121,9/15/2014,Dasypus novemcinctus,mammal,1,IMG_0033 nine-banded one.AVI
+TP-122,9/3/2014,Cuniculus paca,mammal,1,EK000062 paca one.AVI
+TP-122,9/4/2014,Dasypus novemcinctus,mammal,1,EK000063 nine-banded one.AVI
+TP-122,9/5/2014,Nasua narica,mammal,4,EK000064 coati four.AVI
+TP-123,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0015 nine-banded one.AVI
+TP-123,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0016 nine-banded one.AVI
+TP-123,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0017 nine-banded one.AVI
+TP-123,9/16/2014,bird,bird,1,IMG_0019 bird one.AVI
+TP-125,9/3/2014,Dasyprocta punctata,mammal,1,MFDC0002 agouti one.AVI
+TP-125,9/7/2014,Dasypus novemcinctus,mammal,1,MFDC0003 nine-banded one.AVI
+TP-125,9/7/2014,Dasypus novemcinctus,mammal,1,MFDC0004 nine-banded one.AVI
+TP-125,9/15/2014,Dasyprocta punctata,mammal,1,MFDC0005 agouti one.AVI
+TP-126,9/4/2014,Eira barbara,mammal,1,EK000105 eira one unsure.AVI
+TP-126,9/13/2014,Cuniculus paca,mammal,1,EK000112 paca one.AVI
+TP-127,9/3/2014,bird,bird,1,IMG_0032 bird one.AVI
+TP-127,9/13/2014,Dasypus novemcinctus,mammal,1,IMG_0040 nine-banded one.AVI
+TP-127,9/14/2014,Dasypus novemcinctus,mammal,1,IMG_0041 nine-banded one.AVI
+TP-127,9/19/2014,Aramides wolfi,bird,1,IMG_0043 wood-rail one.AVI
+TP-130,9/10/2014,bird,bird,1,IMG_0051 bird one.AVI
+TP-130,9/13/2014,Dasypus novemcinctus,mammal,1,IMG_0070 nine-banded one.AVI
+TP-130,9/14/2014,Dasypus novemcinctus,mammal,1,IMG_0073 nine-banded one.AVI
+TP-131,9/3/2014,Dasypus novemcinctus,mammal,1,EK000036 nine-banded one.AVI
+TP-131,9/10/2014,bird,bird,1,EK000042 bird one.AVI
+TP-131,9/12/2014,Cuniculus paca,mammal,1,EK000043 paca one.AVI
+TP-131,9/14/2014,Dasypus novemcinctus,mammal,1,EK000048 nine-banded one.AVI
+TP-131,9/15/2014,bird,bird,1,EK000050 bird one.AVI
+TP-131,9/17/2014,Aramides wolfi,bird,1,EK000051 wood-rail one.AVI
+TP-131,9/20/2014,Aramides wolfi,bird,1,EK000052 wood-rail one good.AVI
+TP-131,9/20/2014,Aramides wolfi,bird,1,EK000053 wood-rail one.AVI
+TP-132,9/3/2014,Tamandua mexicana,mammal,1,IMG_0016 tamandua one good.AVI
+TP-133,9/3/2014,bird,bird,1,IMG_0040 bird one.AVI
+TP-133,9/4/2014,Dasypus novemcinctus,mammal,1,IMG_0041 nine-banded one.AVI
+TP-133,9/6/2014,Dasypus novemcinctus,mammal,1,IMG_0043 nine-banded one.AVI
+TP-133,9/6/2014,Dasypus novemcinctus,mammal,1,IMG_0044 nine-banded one.AVI
+TP-133,9/9/2014,Dasypus novemcinctus,mammal,1,IMG_0045 nine-banded one.AVI
+TP-133,9/11/2014,bird,bird,2,IMG_0050 bird two.AVI
+TP-133,9/11/2014,bird,bird,1,IMG_0051 bird one.AVI
+TP-133,9/13/2014,Dasypus novemcinctus,mammal,1,IMG_0053 nine-banded one.AVI
+TP-133,9/15/2014,Dasypus novemcinctus,mammal,1,IMG_0054 nine-banded one.AVI
+TP-133,9/15/2014,bird,bird,1,IMG_0055 bird one.AVI
+TP-133,9/19/2014,bird,bird,1,IMG_0056 bird one.AVI
+TP-134,9/6/2014,bird,bird,1,IMG_0006 bird one.AVI
+TP-134,9/6/2014,bird,bird,1,IMG_0007 bird one pooping.AVI
+TP-134,9/6/2014,bird,bird,1,IMG_0008 bird one.AVI
+TP-134,9/11/2014,Aramides wolfi,bird,1,IMG_0034 wood-rail one.AVI
+TP-134,9/13/2014,Dasypus novemcinctus,mammal,1,IMG_0037 nine-banded one.AVI
+TP-134,9/18/2014,Aramides wolfi,bird,1,IMG_0045 wood-rail one.AVI
+TP-134,9/19/2014,Dasypus novemcinctus,mammal,1,IMG_0046 nine-banded one.AVI
+TP-134,9/19/2014,Dasypus novemcinctus,mammal,1,IMG_0047 nine-banded one.AVI
+TP-136,9/11/2014,Dasypus novemcinctus,mammal,1,IMG_0006 nine-banded one.AVI
+TP-136,9/11/2014,Dasypus novemcinctus,mammal,1,IMG_0007 nine-banded one.AVI
+TP-136,9/16/2014,Aramides wolfi,bird,1,IMG_0008 wood-rail one good.AVI
+TP-136,9/18/2014,Dasypus novemcinctus,mammal,1,IMG_0010 nine-banded one.AVI
+TP-136,9/18/2014,Dasypus novemcinctus,mammal,1,IMG_0011 nine-banded one.AVI
+TP-137,9/8/2014,bird,bird,1,EK000043 bird one.AVI
+TP-137,9/16/2014,Dasypus novemcinctus,mammal,1,EK000047 nine-banded one.AVI
+TP-137,9/17/2014,bird,bird,1,EK000048 bird one.AVI
+TP-137,9/18/2014,bird,bird,1,EK000049 bird one.AVI
+TP-138,9/5/2014,Dasyprocta punctata,mammal,1,IMG_0029 agouti one.AVI
+TP-138,9/7/2014,Dasyprocta punctata,mammal,1,IMG_0030 agouti one.AVI
+TP-138,9/13/2014,antthrush,bird,1,IMG_0035 antthrush one.AVI
+TP-138,9/13/2014,Dasyprocta punctata,mammal,1,IMG_0036 agouti one.AVI
+TP-140,9/7/2014,Dasyprocta punctata,mammal,1,IMG_0024 agouti one.AVI
+TP-140,9/12/2014,Dasyprocta punctata,mammal,1,IMG_0027 agouti one.AVI
+TP-140,9/16/2014,Dasypus novemcinctus,mammal,1,IMG_0028 nine-banded one.AVI
+TP-140,9/16/2014,Dasypus novemcinctus,mammal,1,IMG_0029 nine-banded one.AVI
+TP-140,9/18/2014,Dasypus novemcinctus,mammal,1,IMG_0032 nine-banded one.AVI
+TP-141,9/6/2014,Cuniculus paca,mammal,1,IMG_0062 paca one.AVI
+TP-142,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0002 nine-banded one.AVI
+TP-142,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0003 nine-banded one.AVI
+TP-142,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0004 nine-banded one.AVI
+TP-142,9/5/2014,Dasypus novemcinctus,mammal,1,IMG_0005 nine-banded one.AVI
+TP-142,9/16/2014,Aramides wolfi,bird,1,IMG_0008 wood-rail good one.AVI
+TP-142,9/18/2014,bird,bird,1,IMG_0009 bird one.AVI
+TP-143,9/8/2014,bird,bird,2,IMG_0068 bird two.AVI
+TP-143,9/12/2014,Dasyprocta punctata,mammal,1,IMG_0070 agouti one.AVI
+TP-143,9/13/2014,Cuniculus paca,mammal,1,IMG_0072 paca one.AVI
+TP-143,9/13/2014,Cuniculus paca,mammal,1,IMG_0073 paca one.AVI
+TP-143,9/13/2014,Cuniculus paca,mammal,1,IMG_0074 paca one.AVI
+TP-143,9/18/2014,bird,bird,1,IMG_0080 unk_bird one.AVI
+TP-143,9/19/2014,orange sparrow,bird,1,IMG_0081 orange_sparrow one.AVI
+TP-144,9/5/2014,bird,bird,1,EK000039 bird one.AVI
+TP-149,9/8/2014,bird,bird,1,IMG_0041 bird one.AVI
+TP-149,9/18/2014,Dasypus novemcinctus,mammal,1,IMG_0050 nine-banded one.AVI
+TP-150,9/8/2014,Tamandua mexicana,mammal,1,IMG_0023 tamandua one good.AVI
+TP-150,9/12/2014,Dasypus novemcinctus,mammal,1,IMG_0024 nine-banded one.AVI
+TP-151,9/7/2014,Dasypus novemcinctus,mammal,1,IMG_0031 nine-banded one.AVI
+TP-152,9/10/2014,bird,bird,1,IMG_0010 bird one good.AVI
+TP-153,9/19/2014,Cuniculus paca,mammal,1,IMG_0012 paca one.AVI
+TP-155,10/1/2014,Dasypus novemcinctus,mammal,1,IMG_0040 nine-banded one.AVI
+TP-155,10/3/2014,bird,bird,1,IMG_0042 bird one.AVI
+TP-155,10/4/2014,bird,bird,1,IMG_0044 bird one.AVI
+TP-155,10/4/2014,bird,bird,1,IMG_0045 bird one.AVI
+TP-155,10/9/2014,bird,bird,1,IMG_0049 bird one.AVI
+TP-155,10/9/2014,bird,bird,1,IMG_0050 bird one.AVI
+TP-155,10/9/2014,bird,bird,1,IMG_0051 bird one good.AVI
+TP-155,10/10/2014,Didelphis marsupialis,mammal,1,IMG_0052 opossum one.AVI
+TP-155,10/12/2014,bird,bird,1,IMG_0055 bird one.AVI
+TP-155,10/13/2014,bird,bird,1,IMG_0056 bird one.AVI
+TP-155,10/13/2014,bird,bird,1,IMG_0057 bird one.AVI
+TP-156,10/1/2014,Dasyprocta punctata,mammal,1,IMG_0127 agouti one.AVI
+TP-156,10/1/2014,Dasyprocta punctata,mammal,1,IMG_0128 agouti one.AVI
+TP-156,10/2/2014,Dasyprocta punctata,mammal,1,IMG_0132 agouti one.AVI
+TP-156,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0133 agouti one.AVI
+TP-156,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0134 agouti one.AVI
+TP-156,10/4/2014,Dasyprocta punctata,mammal,1,IMG_0135 agouti one.AVI
+TP-156,10/4/2014,Dasyprocta punctata,mammal,1,IMG_0136 agouti one.AVI
+TP-156,10/11/2014,Leopardus pardalis,mammal,1,IMG_0141 ocelot one unsure.AVI
+TP-156,10/12/2014,Dasyprocta punctata,mammal,1,IMG_0142 agouti one good.AVI
+TP-156,10/13/2014,Didelphis marsupialis,mammal,1,IMG_0143 opossum one.AVI
+TP-156,10/14/2014,Procyon cancrivorus,mammal,1,IMG_0145 raccoon one.AVI
+TP-157,10/13/2014,Didelphis marsupialis,mammal,1,IMG_0019 opossum good one.AVI
+TP-158,10/2/2014,Dasypus novemcinctus,mammal,1,IMG_0018 nine-banded one.AVI
+TP-158,10/3/2014,bird,bird,1,IMG_0019 bird one.AVI
+TP-158,10/4/2014,Dasyprocta punctata,mammal,1,IMG_0020 agouti one.AVI
+TP-158,10/5/2014,Dasypus novemcinctus,mammal,1,IMG_0021 nine-banded one.AVI
+TP-158,10/5/2014,Dasyprocta punctata,mammal,1,IMG_0022 agouti one.AVI
+TP-158,10/7/2014,Didelphis marsupialis,mammal,1,IMG_0025 opossum one.AVI
+TP-158,10/10/2014,Didelphis marsupialis,mammal,1,IMG_0027 opossum one.AVI
+TP-158,10/10/2014,Philander sp.,mammal,4,IMG_0028 four-eye one.AVI
+TP-158,10/10/2014,Sciurus sp.,mammal,1,IMG_0029 squirrel one.AVI
+TP-159,10/4/2014,Sciurus sp.,mammal,1,IMG_0025 squirrel one.AVI
+TP-159,10/7/2014,Dasyprocta punctata,mammal,1,IMG_0029 agouti one.AVI
+TP-159,10/12/2014,Dasyprocta punctata,mammal,1,IMG_0034 agouti one.AVI
+TP-160,10/1/2014,Sciurus sp.,mammal,1,IMG_0007 squirrel one.AVI
+TP-160,10/2/2014,Dasyprocta punctata,mammal,1,IMG_0010 agouti one.AVI
+TP-160,10/3/2014,Dasypus novemcinctus,mammal,1,IMG_0011 nine-banded one.AVI
+TP-160,10/3/2014,Dasypus novemcinctus,mammal,1,IMG_0012 nine-banded one.AVI
+TP-160,10/3/2014,Didelphis marsupialis,mammal,1,IMG_0013 opossum one.AVI
+TP-160,10/5/2014,Sciurus sp.,mammal,1,IMG_0015 squirrel one.AVI
+TP-160,10/5/2014,Sciurus sp.,mammal,1,IMG_0016 squirrel one good.AVI
+TP-160,10/6/2014,Didelphis marsupialis,mammal,1,IMG_0017 opossum one.AVI
+TP-160,10/6/2014,Didelphis marsupialis,mammal,1,IMG_0018 opossum one.AVI
+TP-160,10/10/2014,Didelphis marsupialis,mammal,1,IMG_0027 opossum one.AVI
+TP-162,10/2/2014,bird,bird,1,EK000067 bird one.AVI
+TP-162,10/5/2014,Didelphis marsupialis,mammal,1,EK000071 opossum one.AVI
+TP-162,10/5/2014,bird,bird,1,EK000073 bird one.AVI
+TP-162,10/5/2014,bird,bird,1,EK000074 bird one.AVI
+TP-162,10/7/2014,Dasyprocta punctata,mammal,1,EK000075 agouti one.AVI
+TP-162,10/7/2014,bird,bird,1,EK000077 bird one.AVI
+TP-162,10/7/2014,bird,bird,1,EK000078 bird one.AVI
+TP-162,10/7/2014,bird,bird,1,EK000081 bird one.AVI
+TP-162,10/7/2014,bird,bird,1,EK000082 bird one.AVI
+TP-162,10/8/2014,Dasyprocta punctata,mammal,1,EK000083 agouti one good.AVI
+TP-162,10/11/2014,bird,bird,1,EK000087 bird one.AVI
+TP-162,10/13/2014,bird,bird,1,EK000097 bird one.AVI
+TP-163,10/6/2014,Dasyprocta punctata,mammal,1,IMG_0109 agouti one.AVI
+TP-164,10/9/2014,Dasypus novemcinctus,mammal,1,IMG_0048 nine-banded one.AVI
+TP-164,10/13/2014,bird,bird,1,IMG_0050 bird one.AVI
+TP-165,10/2/2014,bird,bird,1,EK000026 bird one.AVI
+TP-165,10/10/2014,Dasyprocta punctata,mammal,1,EK000033 agouti one.AVI
+TP-165,10/11/2014,Dasypus novemcinctus,mammal,1,EK000035 nine-banded one.AVI
+TP-165,10/11/2014,Dasypus novemcinctus,mammal,1,EK000036 nine-banded one.AVI
+TP-165,10/13/2014,bird,bird,1,EK000038 bird one.AVI
+TP-166,10/1/2014,Dasypus novemcinctus,mammal,1,IMG_0095 nine-banded one.AVI
+TP-166,10/1/2014,Dasypus novemcinctus,mammal,1,IMG_0097 nine-banded one.AVI
+TP-166,10/1/2014,Dasypus novemcinctus,mammal,1,IMG_0098 nine-banded one.AVI
+TP-166,10/2/2014,Dasypus novemcinctus,mammal,1,IMG_0099 nine-banded one.AVI
+TP-166,10/3/2014,Cuniculus paca,mammal,1,IMG_0100 paca one.AVI
+TP-166,10/4/2014,Cuniculus paca,mammal,1,IMG_0103 paca one.AVI
+TP-166,10/4/2014,Dasyprocta punctata,mammal,1,IMG_0105 agouti one.AVI
+TP-166,10/4/2014,Dasyprocta punctata,mammal,1,IMG_0106 agouti one.AVI
+TP-166,10/4/2014,Dasyprocta punctata,mammal,1,IMG_0107 agouti one.AVI
+TP-166,10/5/2014,Cuniculus paca,mammal,1,IMG_0108 paca one.AVI
+TP-166,10/5/2014,Cuniculus paca,mammal,1,IMG_0109 paca one.AVI
+TP-166,10/5/2014,Dasypus novemcinctus,mammal,1,IMG_0110 nine-banded one.AVI
+TP-166,10/7/2014,Dasypus novemcinctus,mammal,1,IMG_0114 nine-banded one.AVI
+TP-166,10/9/2014,Dasypus novemcinctus,mammal,1,IMG_0119 nine-banded one.AVI
+TP-166,10/10/2014,Dasypus novemcinctus,mammal,1,IMG_0120 nine-banded one.AVI
+TP-166,10/11/2014,Cuniculus paca,mammal,2,IMG_0122 paca two.AVI
+TP-166,10/11/2014,Dasypus novemcinctus,mammal,1,IMG_0124 nine-banded one.AVI
+TP-166,10/12/2014,Cuniculus paca,mammal,1,IMG_0125 paca one.AVI
+TP-166,10/12/2014,Dasypus novemcinctus,mammal,1,IMG_0126 nine-banded one.AVI
+TP-166,10/12/2014,bird,bird,1,IMG_0127 bird one.AVI
+TP-166,10/13/2014,Cuniculus paca,mammal,1,IMG_0128 paca one.AVI
+TP-166,10/13/2014,Dasypus novemcinctus,mammal,1,IMG_0129 nine-banded one.AVI
+TP-167,10/1/2014,bird,bird,1,MFDC0003 bird one.AVI
+TP-167,10/3/2014,quail,bird,1,MFDC0004 quail one.AVI
+TP-167,10/6/2014,bird,bird,1,MFDC0006 bird one.AVI
+TP-167,10/10/2014,quail,bird,2,MFDC0012 quail two.AVI
+TP-167,10/11/2014,quail,bird,1,MFDC0015 quail one.AVI
+TP-167,10/11/2014,quail,bird,1,MFDC0016 quail one.AVI
+TP-168,10/1/2014,quail,bird,1,IMG_0042 quail one.AVI
+TP-168,10/1/2014,bird,bird,1,IMG_0043 bird one.AVI
+TP-168,10/1/2014,bird,bird,1,IMG_0044 bird one.AVI
+TP-168,10/2/2014,Dasyprocta punctata,mammal,1,IMG_0045 agouti one.AVI
+TP-168,10/2/2014,Didelphis marsupialis,mammal,1,IMG_0046 opossum one.AVI
+TP-168,10/2/2014,Dasyprocta punctata,mammal,1,IMG_0048 agouti one.AVI
+TP-168,10/3/2014,bird,bird,1,IMG_0050 bird one.AVI
+TP-168,10/4/2014,bird,bird,1,IMG_0051 bird one.AVI
+TP-168,10/5/2014,bird,bird,1,IMG_0054 bird one.AVI
+TP-168,10/5/2014,bird,bird,1,IMG_0055 bird one.AVI
+TP-168,10/6/2014,Dasypus novemcinctus,mammal,1,IMG_0059 nine-banded one.AVI
+TP-168,10/6/2014,bird,bird,1,IMG_0060 bird one.AVI
+TP-168,10/6/2014,bird,bird,1,IMG_0061 bird one.AVI
+TP-168,10/8/2014,bird,bird,1,IMG_0064 bird one.AVI
+TP-168,10/10/2014,Dasyprocta punctata,mammal,1,IMG_0067 agouti one.AVI
+TP-168,10/10/2014,bird,bird,1,IMG_0068 bird one.AVI
+TP-168,10/11/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-168,10/12/2014,bird,bird,1,IMG_0072 bird one.AVI
+TP-169,10/2/2014,quail,bird,1,IMG_0042 quail one.AVI
+TP-169,10/4/2014,bird,bird,1,IMG_0043 bird one.AVI
+TP-169,10/12/2014,bird,bird,1,IMG_0045 bird one.AVI
+TP-170,10/1/2014,Sciurus sp.,mammal,1,IMG_0057 squirrel one.AVI
+TP-170,10/1/2014,bird,bird,1,IMG_0058 bird one.AVI
+TP-170,10/2/2014,Cuniculus paca,mammal,1,IMG_0060 paca one.AVI
+TP-170,10/2/2014,Cuniculus paca,mammal,1,IMG_0061 paca one.AVI
+TP-170,10/3/2014,Philander sp.,mammal,4,IMG_0064 four-eye one.AVI
+TP-170,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0065 agouti one.AVI
+TP-170,10/3/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-170,10/4/2014,bird,bird,1,IMG_0067 bird one.AVI
+TP-170,10/6/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-170,10/7/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-170,10/8/2014,bird,bird,1,IMG_0075 bird one.AVI
+TP-170,10/8/2014,bird,bird,1,IMG_0076 bird one.AVI
+TP-170,10/9/2014,bird,bird,1,IMG_0077 bird one.AVI
+TP-170,10/10/2014,bird,bird,1,IMG_0079 bird one.AVI
+TP-170,10/11/2014,antthrush,bird,1,IMG_0080 antthrush one.AVI
+TP-170,10/11/2014,antthrush,bird,1,IMG_0081 antthrush one.AVI
+TP-170,10/11/2014,antthrush,bird,1,IMG_0082 antthrush one.AVI
+TP-170,10/11/2014,quail,bird,2,IMG_0083 quail two.AVI
+TP-171,10/2/2014,bird,bird,1,EK000030 bird one.AVI
+TP-171,10/3/2014,Dasypus novemcinctus,mammal,1,EK000032 nine-banded one.AVI
+TP-171,10/12/2014,Sciurus sp.,mammal,1,EK000037 squirrel one.AVI
+TP-173,10/2/2014,Philander sp.,mammal,4,IMG_0014 four-eye one.AVI
+TP-173,10/5/2014,bird,bird,1,IMG_0020 bird one.AVI
+TP-174,10/4/2014,antthrush,bird,1,IMG_0080 antthrush one.AVI
+TP-174,10/4/2014,bird,bird,1,IMG_0081 unk_bird one.AVI
+TP-174,10/5/2014,Philander sp.,mammal,4,IMG_0082 four-eye one.AVI
+TP-174,10/6/2014,bird,bird,1,IMG_0086 bird one.AVI
+TP-174,10/8/2014,bird,bird,1,IMG_0099 bird one.AVI
+TP-174,10/11/2014,Dasyprocta punctata,mammal,1,IMG_0104 agouti one good.AVI
+TP-174,10/13/2014,Philander sp.,mammal,4,IMG_0107 four-eye one.AVI
+TP-174,10/14/2014,Dasypus novemcinctus,mammal,1,IMG_0108 nine-banded one.AVI
+TP-174,10/14/2014,Dasypus novemcinctus,mammal,1,IMG_0109 nine-banded one good.AVI
+TP-174,10/14/2014,Dasypus novemcinctus,mammal,1,IMG_0111 nine-banded one.AVI
+TP-174,10/15/2014,Cuniculus paca,mammal,1,IMG_0114 paca one good.AVI
+TP-175,10/1/2014,Sciurus sp.,mammal,1,IMG_0060 squirrel one good.AVI
+TP-175,10/3/2014,Philander sp.,mammal,4,IMG_0068 four-eye one.AVI
+TP-175,10/3/2014,quail,bird,2,IMG_0070 quail two.AVI
+TP-175,10/3/2014,bird,bird,1,IMG_0072 bird one.AVI
+TP-175,10/3/2014,Sciurus sp.,mammal,1,IMG_0073 squirrel one.AVI
+TP-175,10/5/2014,Sciurus sp.,mammal,1,IMG_0078 squirrel one.AVI
+TP-175,10/5/2014,Dasyprocta punctata,mammal,1,IMG_0079 agouti one.AVI
+TP-175,10/6/2014,antthrush,bird,1,IMG_0081 antthrush one.AVI
+TP-175,10/9/2014,Eira barbara,mammal,1,IMG_0086 eira one good.AVI
+TP-175,10/9/2014,bird,bird,1,IMG_0088 bird one.AVI
+TP-175,10/10/2014,Sciurus sp.,mammal,1,IMG_0091 squirrel one.AVI
+TP-175,10/13/2014,bird,bird,1,IMG_0100 bird one.AVI
+TP-175,10/15/2014,Philander sp.,mammal,4,IMG_0102 four-eye one.AVI
+TP-175,10/15/2014,Sciurus sp.,mammal,1,IMG_0104 squirrel one.AVI
+TP-176,10/1/2014,bird,bird,1,IMG_0047 bird one.AVI
+TP-176,10/1/2014,bird,bird,1,IMG_0048 bird one.AVI
+TP-176,10/11/2014,Philander sp.,mammal,4,IMG_0064 four-eye one.AVI
+TP-176,10/11/2014,Philander sp.,mammal,4,IMG_0065 four-eye one.AVI
+TP-177,10/1/2014,bird,bird,1,IMG_0021 bird one.AVI
+TP-177,10/1/2014,bird,bird,1,IMG_0022 bird one.AVI
+TP-177,10/1/2014,bird,bird,1,IMG_0023 bird one.AVI
+TP-177,10/2/2014,quail,bird,2,IMG_0026 quail two.AVI
+TP-177,10/2/2014,quail,bird,3,IMG_0027 quail three.AVI
+TP-177,10/2/2014,quail,bird,3,IMG_0030 quail three good.AVI
+TP-177,10/2/2014,quail,bird,2,IMG_0031 quail two.AVI
+TP-177,10/2/2014,bird,bird,1,IMG_0032 bird one.AVI
+TP-177,10/3/2014,Dasypus novemcinctus,mammal,1,IMG_0034 nine-banded one.AVI
+TP-177,10/3/2014,Cuniculus paca,mammal,1,IMG_0035 paca one good.AVI
+TP-177,10/3/2014,bird,bird,1,IMG_0038 bird one good.AVI
+TP-177,10/3/2014,bird,bird,1,IMG_0039 bird one.AVI
+TP-177,10/3/2014,bird,bird,1,IMG_0040 bird one.AVI
+TP-177,10/3/2014,bird,bird,1,IMG_0041 bird one.AVI
+TP-177,10/4/2014,bird,bird,1,IMG_0043 bird one.AVI
+TP-177,10/5/2014,bird,bird,1,IMG_0045 bird one good.AVI
+TP-177,10/5/2014,Sciurus sp.,mammal,1,IMG_0046 squirrel one.AVI
+TP-177,10/5/2014,bird,bird,1,IMG_0047 bird one.AVI
+TP-177,10/5/2014,bird,bird,1,IMG_0048 bird one.AVI
+TP-177,10/5/2014,bird,bird,1,IMG_0049 bird one.AVI
+TP-177,10/7/2014,bird,bird,1,IMG_0054 bird one.AVI
+TP-177,10/7/2014,bird,bird,1,IMG_0055 bird one.AVI
+TP-177,10/7/2014,bird,bird,1,IMG_0057 bird one.AVI
+TP-177,10/8/2014,bird,bird,1,IMG_0061 bird one.AVI
+TP-177,10/8/2014,bird,bird,1,IMG_0062 bird one.AVI
+TP-177,10/9/2014,bird,bird,1,IMG_0065 bird one.AVI
+TP-177,10/10/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-177,10/10/2014,bird,bird,1,IMG_0071 bird one.AVI
+TP-177,10/11/2014,bird,bird,1,IMG_0074 bird one.AVI
+TP-177,10/11/2014,bird,bird,1,IMG_0075 bird one.AVI
+TP-177,10/11/2014,bird,bird,1,IMG_0076 bird one.AVI
+TP-177,10/13/2014,Philander sp.,mammal,4,IMG_0080 four-eye one.AVI
+TP-177,10/13/2014,antthrush,bird,1,IMG_0081 antthrush one.AVI
+TP-177,10/14/2014,Cuniculus paca,mammal,1,IMG_0082 paca one.AVI
+TP-177,10/14/2014,Cuniculus paca,mammal,1,IMG_0083 paca one.AVI
+TP-177,10/14/2014,bird,bird,1,IMG_0084 bird one.AVI
+TP-177,10/14/2014,bird,bird,1,IMG_0085 bird one.AVI
+TP-177,10/14/2014,bird,bird,1,IMG_0086 bird one.AVI
+TP-177,10/14/2014,bird,bird,1,IMG_0087 bird one.AVI
+TP-177,10/15/2014,bird,bird,1,IMG_0092 bird one.AVI
+TP-178,10/2/2014,Philander sp.,mammal,4,IMG_0038 four-eye one.AVI
+TP-178,10/2/2014,Philander sp.,mammal,4,IMG_0039 four-eye one.AVI
+TP-178,10/2/2014,Philander sp.,mammal,4,IMG_0042 four-eye one.AVI
+TP-178,10/3/2014,bird,bird,1,IMG_0047 bird one.AVI
+TP-178,10/4/2014,Philander sp.,mammal,4,IMG_0048 four-eye one.AVI
+TP-178,10/4/2014,bird,bird,1,IMG_0050 bird one.AVI
+TP-178,10/4/2014,bird,bird,1,IMG_0051 bird one.AVI
+TP-178,10/6/2014,Philander sp.,mammal,4,IMG_0054 four-eye one.AVI
+TP-178,10/7/2014,bird,bird,1,IMG_0059 bird one.AVI
+TP-178,10/10/2014,Philander sp.,mammal,4,IMG_0064 four-eye one.AVI
+TP-178,10/10/2014,Philander sp.,mammal,4,IMG_0066 four-eye one.AVI
+TP-178,10/11/2014,bird,bird,1,IMG_0071 bird one.AVI
+TP-178,10/11/2014,Sciurus sp.,mammal,1,IMG_0072 squirrel one good.AVI
+TP-178,10/11/2014,Sciurus sp.,mammal,1,IMG_0073 squirrel one.AVI
+TP-178,10/13/2014,Dasypus novemcinctus,mammal,1,IMG_0078 nine-banded one.AVI
+TP-178,10/14/2014,Philander sp.,mammal,4,IMG_0081 four-eye one.AVI
+TP-179,10/1/2014,quail,bird,2,IMG_0118 quail two.AVI
+TP-179,10/1/2014,quail,bird,3,IMG_0119 quail three.AVI
+TP-179,10/2/2014,Philander sp.,mammal,4,IMG_0121 four-eye one.AVI
+TP-179,10/2/2014,Dasyprocta punctata,mammal,1,IMG_0124 agouti one.AVI
+TP-179,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0126 agouti one.AVI
+TP-179,10/4/2014,Dasyprocta punctata,mammal,1,IMG_0127 agouti one.AVI
+TP-179,10/6/2014,Dasyprocta punctata,mammal,1,IMG_0130 agouti one.AVI
+TP-179,10/6/2014,bird,bird,1,IMG_0132 bird one.AVI
+TP-179,10/6/2014,Dasyprocta punctata,mammal,1,IMG_0133 agouti one.AVI
+TP-179,10/11/2014,quail,bird,3,IMG_0142 quail three.AVI
+TP-179,10/12/2014,Leopardus pardalis,mammal,1,IMG_0144 ocelot one good.AVI
+TP-179,10/12/2014,Procyon cancrivorus,mammal,1,IMG_0146 raccoon unsure one.AVI
+TP-179,10/12/2014,bird,bird,1,IMG_0147 bird one.AVI
+TP-179,10/12/2014,bird,bird,1,IMG_0148 bird one.AVI
+TP-179,10/13/2014,Dasypus novemcinctus,mammal,1,IMG_0151 nine-banded one.AVI
+TP-179,10/14/2014,Nasua narica,mammal,1,IMG_0154 coati unsure one.AVI
+TP-179,10/15/2014,bird,bird,1,IMG_0157 bird one.AVI
+TP-180,10/2/2014,Cuniculus paca,mammal,1,IMG_0015 paca one.AVI
+TP-180,10/2/2014,Cuniculus paca,mammal,1,IMG_0016 paca one.AVI
+TP-180,10/2/2014,Cuniculus paca,mammal,1,IMG_0017 paca one.AVI
+TP-180,10/2/2014,bird,bird,1,IMG_0018 bird one.AVI
+TP-180,10/3/2014,Cuniculus paca,mammal,1,IMG_0019 paca one.AVI
+TP-180,10/3/2014,bird,bird,1,IMG_0020 bird one.AVI
+TP-180,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0021 agouti one.AVI
+TP-180,10/5/2014,Cuniculus paca,mammal,1,IMG_0023 paca one.AVI
+TP-180,10/7/2014,Cuniculus paca,mammal,1,IMG_0029 paca one.AVI
+TP-180,10/7/2014,Cuniculus paca,mammal,1,IMG_0031 paca one.AVI
+TP-180,10/7/2014,Dasyprocta punctata,mammal,1,IMG_0033 agouti one.AVI
+TP-180,10/8/2014,Dasyprocta punctata,mammal,1,IMG_0035 agouti one.AVI
+TP-180,10/8/2014,Dasyprocta punctata,mammal,1,IMG_0036 agouti one.AVI
+TP-180,10/9/2014,Dasyprocta punctata,mammal,1,IMG_0037 agouti one.AVI
+TP-180,10/11/2014,Philander sp.,mammal,4,IMG_0050 four-eye one.AVI
+TP-180,10/12/2014,Philander sp.,mammal,4,IMG_0055 four-eye one.AVI
+TP-180,10/15/2014,Philander sp.,mammal,4,IMG_0070 four-eye one.AVI
+TP-180,10/15/2014,Philander sp.,mammal,4,IMG_0072 four-eye one.AVI
+TP-180,10/15/2014,Philander sp.,mammal,4,IMG_0073 four-eye one.AVI
+TP-180,10/15/2014,Cuniculus paca,mammal,1,IMG_0076 paca one.AVI
+TP-181,10/2/2014,quail,bird,1,EK000005 ruddy_quail_dove one.AVI
+TP-181,10/5/2014,Philander sp.,mammal,4,EK000007 four-eye one.AVI
+TP-181,10/6/2014,Philander sp.,mammal,4,EK000011 four-eye one.AVI
+TP-181,10/11/2014,Dasypus novemcinctus,mammal,1,EK000012 nine-banded one.AVI
+TP-181,10/13/2014,bird,bird,1,EK000014 bird one.AVI
+TP-181,10/15/2014,Philander sp.,mammal,4,EK000015 four-eye one.AVI
+TP-182,10/3/2014,Sciurus sp.,mammal,1,IMG_0010 squirrel one.AVI
+TP-182,10/8/2014,bird,bird,1,IMG_0011 bird one good.AVI
+TP-182,10/8/2014,Dasyprocta punctata,mammal,1,IMG_0012 agouti one.AVI
+TP-182,10/12/2014,Sciurus sp.,mammal,1,IMG_0019 squirrel one.AVI
+TP-183,10/2/2014,Dasyprocta punctata,mammal,1,IMG_0025 agouti one.AVI
+TP-183,10/3/2014,Didelphis marsupialis,mammal,1,IMG_0027 opossum one.AVI
+TP-183,10/3/2014,Didelphis marsupialis,mammal,1,IMG_0028 opossum one good.AVI
+TP-183,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0029 agouti one.AVI
+TP-183,10/8/2014,Dasyprocta punctata,mammal,1,IMG_0032 agouti one unsure.AVI
+TP-183,10/11/2014,bird,bird,2,IMG_0033 bird two.AVI
+TP-183,10/11/2014,Dasyprocta punctata,mammal,1,IMG_0034 agouti one baby.AVI
+TP-183,10/11/2014,Dasyprocta punctata,mammal,1,IMG_0035 agouti one.AVI
+TP-185,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0072 agouti one unsure.AVI
+TP-185,10/8/2014,Dasypus novemcinctus,mammal,1,IMG_0073 nine-banded one.AVI
+TP-185,10/8/2014,Dasypus novemcinctus,mammal,1,IMG_0074 nine-banded one.AVI
+TP-185,10/13/2014,Dasypus novemcinctus,mammal,1,IMG_0079 nine-banded one.AVI
+TP-185,10/15/2014,Dasypus novemcinctus,mammal,1,IMG_0082 nine-banded one.AVI
+TP-186,10/4/2014,bird,bird,1,IMG_0041 bird one.AVI
+TP-186,10/4/2014,bird,bird,1,IMG_0042 bird one.AVI
+TP-186,10/5/2014,Didelphis marsupialis,mammal,1,IMG_0044 opossum one.AVI
+TP-188,10/3/2014,Dasyprocta punctata,mammal,1,IMG_0011 agouti one unsure.AVI
+TP-188,10/4/2014,Cuniculus paca,mammal,1,IMG_0012 paca one good.AVI
+TP-188,10/4/2014,Cuniculus paca,mammal,1,IMG_0013 paca one.AVI
+TP-188,10/8/2014,Dasyprocta punctata,mammal,1,IMG_0016 agouti one good.AVI
+TP-188,10/11/2014,Dasypus novemcinctus,mammal,1,IMG_0017 nine-banded one.AVI
+TP-188,10/11/2014,bird,bird,3,IMG_0018 bird three.AVI
+TP-188,10/11/2014,bird,bird,1,IMG_0019 bird one.AVI
+TP-188,10/15/2014,quail,bird,1,IMG_0020 quail one.AVI
+TP-188,10/15/2014,quail,bird,2,IMG_0021 quail two.AVI
+TP-188,10/15/2014,quail,bird,3,IMG_0022 quail three.AVI
+TP-188,10/15/2014,quail,bird,7,IMG_0023 quail seven good.AVI
+TP-188,10/15/2014,quail,bird,7,IMG_0024 quail seven.AVI
+TP-188,10/15/2014,quail,bird,6,IMG_0025 quail six.AVI
+TP-189,10/4/2014,bird,bird,1,IMG_0084 bird one.AVI
+TP-189,10/6/2014,Didelphis marsupialis,mammal,1,IMG_0085 opossum one.AVI
+TP-189,10/10/2014,Dasyprocta punctata,mammal,1,IMG_0088 agouti one good.AVI
+TP-189,10/10/2014,Dasyprocta punctata,mammal,1,IMG_0089 agouti one.AVI
+TP-189,10/11/2014,Procyon cancrivorus,mammal,1,IMG_0090 raccoon unsure one.AVI
+TP-190,10/8/2014,Dasyprocta punctata,mammal,1,IMG_0097 agouti one.AVI
+TP-190,10/8/2014,Dasyprocta punctata,mammal,1,IMG_0098 agouti one.AVI
+TP-190,10/9/2014,Dasyprocta punctata,mammal,1,IMG_0099 agouti one.AVI
+TP-190,10/9/2014,Dasyprocta punctata,mammal,1,IMG_0100 agouti one.AVI
+TP-190,10/11/2014,Cuniculus paca,mammal,1,IMG_0102 paca one.AVI
+TP-190,10/12/2014,Dasyprocta punctata,mammal,1,IMG_0104 agouti one.AVI
+TP-191,11/4/2014,Dasyprocta punctata,mammal,2,IMG_0055 agouti two.AVI
+TP-191,11/4/2014,Dasyprocta punctata,mammal,2,IMG_0057 agouti two.AVI
+TP-191,11/4/2014,Philander sp.,mammal,4,IMG_0058 four-eye one.AVI
+TP-191,11/5/2014,Philander sp.,mammal,4,IMG_0059 four-eye one.AVI
+TP-191,11/6/2014,Dasyprocta punctata,mammal,1,IMG_0060 agouti one.AVI
+TP-191,11/8/2014,Philander sp.,mammal,4,IMG_0061 four-eye one.AVI
+TP-191,11/8/2014,Dasyprocta punctata,mammal,1,IMG_0069 agouti one.AVI
+TP-191,11/10/2014,Dasyprocta punctata,mammal,1,IMG_0071 agouti one.AVI
+TP-191,11/12/2014,Dasypus novemcinctus,mammal,1,IMG_0072 nine-banded one.AVI
+TP-191,11/12/2014,Philander sp.,mammal,4,IMG_0073 four-eye one.AVI
+TP-191,11/15/2014,Dasypus novemcinctus,mammal,1,IMG_0075 nine-banded one.AVI
+TP-191,11/16/2014,Didelphis marsupialis,mammal,1,IMG_0077 opossum one.AVI
+TP-191,11/16/2014,Philander sp.,mammal,4,IMG_0079 four-eye one.AVI
+TP-192,11/4/2014,Didelphis marsupialis,mammal,1,EK000017 opossum one.AVI
+TP-192,11/4/2014,Philander sp.,mammal,4,EK000018 four-eye one.AVI
+TP-192,11/6/2014,bird,bird,1,EK000020 bird one.AVI
+TP-192,11/6/2014,bird,bird,1,EK000021 bird one.AVI
+TP-192,11/6/2014,bird,bird,1,EK000023 bird one.AVI
+TP-192,11/7/2014,Philander sp.,mammal,4,EK000024 four-eye one.AVI
+TP-192,11/10/2014,quail,bird,3,EK000026 quail three.AVI
+TP-192,11/11/2014,Dasyprocta punctata,mammal,1,EK000028 agouti one.AVI
+TP-192,11/11/2014,bird,bird,1,EK000029 bird one.AVI
+TP-192,11/12/2014,Philander sp.,mammal,4,EK000030 four-eye one.AVI
+TP-192,11/13/2014,Dasyprocta punctata,mammal,1,EK000032 agouti one.AVI
+TP-192,11/13/2014,Dasyprocta punctata,mammal,1,EK000033 agouti one.AVI
+TP-192,11/15/2014,Philander sp.,mammal,4,EK000035 four-eye one.AVI
+TP-192,11/15/2014,Philander sp.,mammal,4,EK000036 four-eye one.AVI
+TP-192,11/15/2014,Philander sp.,mammal,4,EK000037 four-eye one.AVI
+TP-192,11/15/2014,Philander sp.,mammal,4,EK000038 four-eye.AVI
+TP-193,11/4/2014,bird,bird,1,IMG_0078 bird one.AVI
+TP-193,11/6/2014,Philander sp.,mammal,4,IMG_0079 four-eye one.AVI
+TP-193,11/6/2014,antthrush,bird,1,IMG_0080 antthrush one.AVI
+TP-193,11/7/2014,Dasypus novemcinctus,mammal,1,IMG_0081 nine-banded one good.AVI
+TP-193,11/7/2014,quail,bird,3,IMG_0082 quail three.AVI
+TP-193,11/7/2014,Philander sp.,mammal,4,IMG_0083 four-eye one.AVI
+TP-193,11/9/2014,Philander sp.,mammal,4,IMG_0087 four-eye one.AVI
+TP-193,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0089 nine-banded one.AVI
+TP-193,11/15/2014,quail,bird,2,IMG_0093 quail two.AVI
+TP-193,11/15/2014,quail,bird,2,IMG_0094 quail two.AVI
+TP-193,11/15/2014,quail,bird,3,IMG_0095 quail three.AVI
+TP-193,11/15/2014,quail,bird,4,IMG_0096 quail four.AVI
+TP-193,11/15/2014,quail,bird,1,IMG_0097 quail one.AVI
+TP-193,11/15/2014,bird,bird,1,IMG_0098 bird one.AVI
+TP-194,11/1/2014,Dasyprocta punctata,mammal,1,IMG_0084 agouti one.AVI
+TP-194,11/2/2014,quail,bird,3,IMG_0086 quail three.AVI
+TP-194,11/3/2014,Philander sp.,mammal,4,IMG_0088 four-eye unsure one.AVI
+TP-194,11/3/2014,Philander sp.,mammal,4,IMG_0092 four-eye one.AVI
+TP-194,11/4/2014,Dasyprocta punctata,mammal,1,IMG_0097 agouti one.AVI
+TP-194,11/7/2014,bird,bird,1,IMG_0101 bird one.AVI
+TP-194,11/8/2014,Philander sp.,mammal,4,IMG_0102 four-eye one.AVI
+TP-194,11/8/2014,Philander sp.,mammal,4,IMG_0103 four-eye one unsure.AVI
+TP-194,11/8/2014,Philander sp.,mammal,4,IMG_0104 four-eye one.AVI
+TP-194,11/8/2014,Cuniculus paca,mammal,1,IMG_0108 paca one good.AVI
+TP-194,11/10/2014,Philander sp.,mammal,4,IMG_0109 four-eye one.AVI
+TP-194,11/10/2014,Dasypus novemcinctus,mammal,1,IMG_0110 nine-banded one.AVI
+TP-194,11/12/2014,Philander sp.,mammal,4,IMG_0112 four-eye one.AVI
+TP-194,11/12/2014,Philander sp.,mammal,4,IMG_0114 four-eye one.AVI
+TP-194,11/12/2014,Philander sp.,mammal,4,IMG_0115 four-eye one.AVI
+TP-194,11/12/2014,Dasypus novemcinctus,mammal,1,IMG_0116 nine-banded one.AVI
+TP-194,11/12/2014,Dasypus novemcinctus,mammal,1,IMG_0117 nine-banded one.AVI
+TP-194,11/12/2014,bird,bird,1,IMG_0119 bird one.AVI
+TP-194,11/12/2014,Dasyprocta punctata,mammal,1,IMG_0120 agouti one.AVI
+TP-194,11/12/2014,bird,bird,1,IMG_0121 bird one.AVI
+TP-194,11/13/2014,Philander sp.,mammal,4,IMG_0123 four-eye one.AVI
+TP-194,11/13/2014,Philander sp.,mammal,4,IMG_0124 four-eye one.AVI
+TP-194,11/13/2014,Dasypus novemcinctus,mammal,1,IMG_0126 nine-banded one.AVI
+TP-194,11/14/2014,Philander sp.,mammal,4,IMG_0127 four-eye one.AVI
+TP-194,11/14/2014,Philander sp.,mammal,4,IMG_0128 four-eye one.AVI
+TP-194,11/14/2014,Philander sp.,mammal,4,IMG_0129 four-eye one.AVI
+TP-194,11/15/2014,Dasypus novemcinctus,mammal,1,IMG_0130 nine-banded one.AVI
+TP-194,11/15/2014,Philander sp.,mammal,4,IMG_0131 four-eye one.AVI
+TP-194,11/15/2014,Philander sp.,mammal,4,IMG_0133 four-eye one.AVI
+TP-194,11/15/2014,Philander sp.,mammal,4,IMG_0134 four-eye one.AVI
+TP-194,11/15/2014,Dasyprocta punctata,mammal,2,IMG_0135 agouti two.AVI
+TP-194,11/15/2014,Dasyprocta punctata,mammal,1,IMG_0136 agouti one.AVI
+TP-194,11/16/2014,Philander sp.,mammal,4,IMG_0137 four-eye one.AVI
+TP-194,11/16/2014,Philander sp.,mammal,4,IMG_0139 four-eye one.AVI
+TP-196,11/2/2014,Philander sp.,mammal,4,IMG_0111 four-eye one.AVI
+TP-196,11/2/2014,Philander sp.,mammal,4,IMG_0112 four-eye one.AVI
+TP-196,11/2/2014,Philander sp.,mammal,4,IMG_0114 four-eye one.AVI
+TP-196,11/2/2014,bird,bird,1,IMG_0120 bird one.AVI
+TP-196,11/2/2014,Dasyprocta punctata,mammal,1,IMG_0121 agouti one.AVI
+TP-196,11/2/2014,Dasyprocta punctata,mammal,1,IMG_0122 agouti one.AVI
+TP-196,11/3/2014,Dasyprocta punctata,mammal,1,IMG_0126 agouti one.AVI
+TP-196,11/3/2014,quail,bird,3,IMG_0127 quail three.AVI
+TP-196,11/4/2014,Dasyprocta punctata,mammal,1,IMG_0130 agouti one.AVI
+TP-196,11/5/2014,Philander sp.,mammal,4,IMG_0133 four-eye one.AVI
+TP-196,11/5/2014,Philander sp.,mammal,4,IMG_0134 four-eye one.AVI
+TP-196,11/5/2014,quail,bird,2,IMG_0135 quail two.AVI
+TP-196,11/5/2014,Eira barbara,mammal,1,IMG_0136 eira one good.AVI
+TP-196,11/6/2014,Philander sp.,mammal,4,IMG_0137 four-eye one.AVI
+TP-196,11/7/2014,Philander sp.,mammal,4,IMG_0139 four-eye one.AVI
+TP-196,11/10/2014,Dasyprocta punctata,mammal,1,IMG_0145 agouti one.AVI
+TP-196,11/10/2014,Dasyprocta punctata,mammal,1,IMG_0146 agouti one.AVI
+TP-196,11/11/2014,Philander sp.,mammal,4,IMG_0148 four-eye one.AVI
+TP-196,11/11/2014,Dasyprocta punctata,mammal,1,IMG_0150 agouti one.AVI
+TP-196,11/11/2014,Dasyprocta punctata,mammal,1,IMG_0151 agouti one.AVI
+TP-196,11/11/2014,Dasyprocta punctata,mammal,1,IMG_0152 agouti one.AVI
+TP-196,11/12/2014,Philander sp.,mammal,4,IMG_0153 four-eye one.AVI
+TP-196,11/12/2014,Sciurus sp.,mammal,1,IMG_0156 squirrel one.AVI
+TP-196,11/13/2014,Dasypus novemcinctus,mammal,1,IMG_0157 nine-banded one.AVI
+TP-196,11/13/2014,Philander sp.,mammal,4,IMG_0160 four-eye one.AVI
+TP-196,11/13/2014,Philander sp.,mammal,4,IMG_0161 four-eye one.AVI
+TP-196,11/14/2014,Philander sp.,mammal,4,IMG_0163 four-eye one.AVI
+TP-196,11/14/2014,Philander sp.,mammal,4,IMG_0164 four-eye one.AVI
+TP-196,11/14/2014,Philander sp.,mammal,4,IMG_0165 four-eye one unsure.AVI
+TP-196,11/14/2014,Philander sp.,mammal,4,IMG_0167 four-eye one.AVI
+TP-196,11/14/2014,Philander sp.,mammal,4,IMG_0168 four-eye one.AVI
+TP-196,11/14/2014,Dasyprocta punctata,mammal,1,IMG_0170 agouti one.AVI
+TP-196,11/14/2014,bird,bird,1,IMG_0171 bird one.AVI
+TP-196,11/15/2014,Philander sp.,mammal,4,IMG_0172 four-eye one.AVI
+TP-196,11/15/2014,Philander sp.,mammal,4,IMG_0177 four-eye one.AVI
+TP-196,11/15/2014,Philander sp.,mammal,4,IMG_0178 four-eye one.AVI
+TP-196,11/15/2014,Philander sp.,mammal,4,IMG_0180 four-eye one.AVI
+TP-196,11/15/2014,Philander sp.,mammal,4,IMG_0181 four-eye one.AVI
+TP-196,11/16/2014,Dasypus novemcinctus,mammal,1,IMG_0182 nine-banded one.AVI
+TP-196,11/16/2014,Philander sp.,mammal,4,IMG_0185 four-eye one.AVI
+TP-196,11/16/2014,Philander sp.,mammal,4,IMG_0186 four-eye one.AVI
+TP-196,11/16/2014,Philander sp.,mammal,4,IMG_0188 four-eye one.AVI
+TP-197,11/1/2014,bird,bird,1,IMG_0053 bird one.AVI
+TP-197,11/2/2014,Dasypus novemcinctus,mammal,1,IMG_0056 nine-banded one good.AVI
+TP-197,11/2/2014,Dasypus novemcinctus,mammal,1,IMG_0057 nine-banded one.AVI
+TP-197,11/2/2014,Sciurus sp.,mammal,1,IMG_0059 squirrel one.AVI
+TP-197,11/2/2014,Sciurus sp.,mammal,1,IMG_0060 squirrel one.AVI
+TP-197,11/3/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-197,11/4/2014,bird,bird,1,IMG_0073 bird one.AVI
+TP-197,11/4/2014,bird,bird,1,IMG_0074 bird one.AVI
+TP-197,11/4/2014,bird,bird,1,IMG_0075 bird one.AVI
+TP-197,11/5/2014,bird,bird,1,IMG_0078 bird one.AVI
+TP-197,11/5/2014,bird,bird,1,IMG_0079 bird one.AVI
+TP-197,11/8/2014,Cuniculus paca,mammal,1,IMG_0091 paca one.AVI
+TP-197,11/9/2014,Didelphis marsupialis,mammal,1,IMG_0094 opossum one.AVI
+TP-197,11/9/2014,quail,bird,1,IMG_0097 quail one.AVI
+TP-197,11/9/2014,quail,bird,1,IMG_0098 quail one.AVI
+TP-197,11/9/2014,quail,bird,1,IMG_0099 quail one.AVI
+TP-197,11/9/2014,quail,bird,2,IMG_0100 quail two good.AVI
+TP-197,11/9/2014,quail,bird,2,IMG_0101 quail two.AVI
+TP-197,11/10/2014,Sciurus sp.,mammal,1,IMG_0103 squirrel one.AVI
+TP-197,11/10/2014,bird,bird,1,IMG_0104 bird one.AVI
+TP-197,11/11/2014,Sciurus sp.,mammal,1,IMG_0108 squirrel one.AVI
+TP-197,11/11/2014,bird,bird,1,IMG_0109 bird one.AVI
+TP-197,11/11/2014,bird,bird,1,IMG_0110 bird one.AVI
+TP-197,11/12/2014,Dasypus novemcinctus,mammal,1,IMG_0112 nine-banded one.AVI
+TP-197,11/12/2014,Dasypus novemcinctus,mammal,1,IMG_0113 nine-banded one.AVI
+TP-197,11/13/2014,Philander sp.,mammal,4,IMG_0114 four-eye one.AVI
+TP-197,11/13/2014,quail,bird,3,IMG_0115 quail three good.AVI
+TP-197,11/14/2014,Philander sp.,mammal,4,IMG_0117 four-eye one.AVI
+TP-197,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0118 nine-banded one.AVI
+TP-197,11/14/2014,bird,bird,1,IMG_0120 bird one.AVI
+TP-197,11/15/2014,Dasypus novemcinctus,mammal,1,IMG_0122 nine-banded one.AVI
+TP-197,11/16/2014,Didelphis marsupialis,mammal,1,IMG_0126 opossum one.AVI
+TP-198,11/1/2014,bird,bird,1,IMG_0026 bird one.AVI
+TP-198,11/2/2014,Dasypus novemcinctus,mammal,1,IMG_0027 nine-banded one.AVI
+TP-198,11/3/2014,Dasypus novemcinctus,mammal,1,IMG_0028 nine-banded one.AVI
+TP-198,11/4/2014,bird,bird,1,IMG_0031 bird one.AVI
+TP-198,11/5/2014,bird,bird,1,IMG_0032 bird one.AVI
+TP-198,11/6/2014,Philander sp.,mammal,4,IMG_0034 four-eye one.AVI
+TP-198,11/6/2014,Philander sp.,mammal,4,IMG_0035 four-eye one.AVI
+TP-198,11/6/2014,bird,bird,1,IMG_0036 bird one.AVI
+TP-198,11/9/2014,bird,bird,1,IMG_0041 bird one.AVI
+TP-198,11/9/2014,bird,bird,1,IMG_0042 bird one.AVI
+TP-198,11/9/2014,bird,bird,1,IMG_0043 bird one.AVI
+TP-198,11/10/2014,Dasypus novemcinctus,mammal,1,IMG_0044 nine-banded one.AVI
+TP-198,11/10/2014,Dasypus novemcinctus,mammal,1,IMG_0045 nine-banded one.AVI
+TP-198,11/10/2014,Aramides wolfi,bird,1,IMG_0046 wood-rail one.AVI
+TP-198,11/10/2014,Aramides wolfi,bird,1,IMG_0047 wood-rail one.AVI
+TP-198,11/10/2014,Aramides wolfi,bird,1,IMG_0048 wood-rail one.AVI
+TP-198,11/10/2014,Aramides wolfi,bird,1,IMG_0049 wood-rail one.AVI
+TP-198,11/10/2014,Aramides wolfi,bird,1,IMG_0050 wood-rail one.AVI
+TP-198,11/10/2014,bird,bird,1,IMG_0052 bird one.AVI
+TP-198,11/12/2014,bird,bird,1,IMG_0054 bird one.AVI
+TP-198,11/13/2014,Cuniculus paca,mammal,1,IMG_0056 paca one.AVI
+TP-198,11/13/2014,bird,bird,1,IMG_0059 bird one.AVI
+TP-198,11/14/2014,Sciurus sp.,mammal,1,IMG_0062 squirrel one.AVI
+TP-198,11/14/2014,Sciurus sp.,mammal,1,IMG_0063 squirrel one.AVI
+TP-198,11/14/2014,bird,bird,1,IMG_0065 bird one.AVI
+TP-198,11/15/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-198,11/15/2014,Sciurus sp.,mammal,1,IMG_0067 squirrel one.AVI
+TP-199,11/2/2014,bird,bird,1,IMG_0141 bird one.AVI
+TP-199,11/2/2014,bird,bird,1,IMG_0142 bird one.AVI
+TP-199,11/3/2014,bird,bird,1,IMG_0144 bird one.AVI
+TP-199,11/3/2014,bird,bird,1,IMG_0145 bird one.AVI
+TP-199,11/3/2014,bird,bird,1,IMG_0146 bird one.AVI
+TP-199,11/4/2014,bird,bird,1,IMG_0149 bird one.AVI
+TP-199,11/4/2014,bird,bird,1,IMG_0150 bird one.AVI
+TP-199,11/4/2014,bird,bird,1,IMG_0151 bird one.AVI
+TP-199,11/5/2014,Philander sp.,mammal,4,IMG_0153 four-eye one.AVI
+TP-199,11/5/2014,bird,bird,1,IMG_0154 bird one.AVI
+TP-199,11/5/2014,bird,bird,1,IMG_0155 bird one.AVI
+TP-199,11/5/2014,bird,bird,1,IMG_0156 bird one.AVI
+TP-199,11/5/2014,bird,bird,1,IMG_0158 bird one.AVI
+TP-199,11/5/2014,quail,bird,1,IMG_0159 quail one.AVI
+TP-199,11/6/2014,quail,bird,2,IMG_0160 quail two.AVI
+TP-199,11/6/2014,quail,bird,2,IMG_0161 quail two.AVI
+TP-199,11/6/2014,quail,bird,3,IMG_0162 quail three.AVI
+TP-199,11/6/2014,quail,bird,4,IMG_0163 quail four.AVI
+TP-199,11/6/2014,quail,bird,4,IMG_0164 quail four.AVI
+TP-199,11/6/2014,quail,bird,4,IMG_0165 quail four.AVI
+TP-199,11/6/2014,quail,bird,2,IMG_0166 quail two.AVI
+TP-199,11/7/2014,bird,bird,1,IMG_0167 bird one.AVI
+TP-199,11/7/2014,quail,bird,3,IMG_0168 quail three.AVI
+TP-199,11/9/2014,quail,bird,3,IMG_0171 quail three.AVI
+TP-199,11/9/2014,quail,bird,4,IMG_0172 quail four.AVI
+TP-199,11/9/2014,quail,bird,4,IMG_0173 quail four.AVI
+TP-199,11/10/2014,Philander sp.,mammal,4,IMG_0174 four-eye one.AVI
+TP-199,11/10/2014,bird,bird,1,IMG_0177 bird one.AVI
+TP-199,11/10/2014,bird,bird,1,IMG_0178 bird one.AVI
+TP-199,11/11/2014,bird,bird,1,IMG_0183 bird one.AVI
+TP-199,11/11/2014,antthrush,bird,1,IMG_0184 antthrush one.AVI
+TP-199,11/12/2014,bird,bird,1,IMG_0188 bird one.AVI
+TP-199,11/12/2014,bird,bird,1,IMG_0194 bird one.AVI
+TP-199,11/14/2014,antthrush,bird,1,IMG_0197 antthrush one.AVI
+TP-199,11/14/2014,orange sparrow,bird,1,IMG_0198 orange_sparrow one.AVI
+TP-199,11/14/2014,quail,bird,1,IMG_0199 quail one.AVI
+TP-199,11/14/2014,quail,bird,1,IMG_0200 quail one.AVI
+TP-199,11/16/2014,orange sparrow,bird,1,IMG_0205 orange_sparrow one.AVI
+TP-200,11/2/2014,Aramides wolfi,bird,1,IMG_0090 wood-rail one.AVI
+TP-200,11/3/2014,Aramides wolfi,bird,1,IMG_0094 wood-rail one.AVI
+TP-200,11/5/2014,bird,bird,1,IMG_0098 bird one.AVI
+TP-200,11/6/2014,Cuniculus paca,mammal,1,IMG_0100 paca one.AVI
+TP-200,11/12/2014,Cuniculus paca,mammal,1,IMG_0103 paca one.AVI
+TP-200,11/13/2014,Cuniculus paca,mammal,1,IMG_0104 paca one.AVI
+TP-200,11/13/2014,Cuniculus paca,mammal,1,IMG_0105 paca one.AVI
+TP-200,11/13/2014,Aramides wolfi,bird,1,IMG_0106 wood-rail one.AVI
+TP-200,11/14/2014,Aramides wolfi,bird,1,IMG_0107 wood-rail one.AVI
+TP-200,11/15/2014,Dasyprocta punctata,mammal,1,IMG_0109 agouti one.AVI
+TP-202,11/3/2014,quail,bird,1,IMG_0027 quail one.AVI
+TP-202,11/3/2014,bird,bird,1,IMG_0028 bird one.AVI
+TP-202,11/4/2014,Dasyprocta punctata,mammal,1,IMG_0030 agouti one.AVI
+TP-202,11/4/2014,Dasyprocta punctata,mammal,1,IMG_0031 agouti one.AVI
+TP-202,11/4/2014,bird,bird,1,IMG_0032 bird one.AVI
+TP-202,11/5/2014,bird,bird,1,IMG_0034 bird one.AVI
+TP-202,11/6/2014,bird,bird,1,IMG_0035 bird one.AVI
+TP-202,11/8/2014,quail,bird,1,IMG_0036 quail one.AVI
+TP-202,11/8/2014,bird,bird,1,IMG_0037 bird one.AVI
+TP-202,11/10/2014,bird,bird,1,IMG_0040 bird one.AVI
+TP-202,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0043 opossum one good.AVI
+TP-202,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0044 opossum one.AVI
+TP-202,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0045 opossum one.AVI
+TP-202,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0046 opossum one.AVI
+TP-202,11/13/2014,quail,bird,2,IMG_0052 quail two.AVI
+TP-202,11/15/2014,quail,bird,1,IMG_0067 quail one.AVI
+TP-202,11/15/2014,Nasua narica,mammal,1,IMG_0068 coati one unsure.AVI
+TP-203,11/4/2014,Didelphis marsupialis,mammal,1,IMG_0036 opossum one.AVI
+TP-203,11/9/2014,Cuniculus paca,mammal,1,IMG_0085 paca one.AVI
+TP-203,11/11/2014,Cuniculus paca,mammal,1,IMG_0103 paca one.AVI
+TP-203,11/12/2014,Nasua narica,mammal,1,IMG_0110 coati one.AVI
+TP-204,11/8/2014,bird,bird,1,IMG_0094 bird one.AVI
+TP-205,11/3/2014,Dasyprocta punctata,mammal,1,IMG_0088 agouti one.AVI
+TP-205,11/4/2014,quail,bird,2,IMG_0089 quail two.AVI
+TP-205,11/4/2014,quail,bird,1,IMG_0090 quail one.AVI
+TP-205,11/8/2014,Sciurus sp.,mammal,1,IMG_0092 squirrel one.AVI
+TP-205,11/9/2014,Dasypus novemcinctus,mammal,1,IMG_0093 nine-banded one.AVI
+TP-205,11/9/2014,Dasypus novemcinctus,mammal,1,IMG_0094 nine-banded one.AVI
+TP-205,11/9/2014,quail,bird,1,IMG_0095 quail one.AVI
+TP-205,11/9/2014,quail,bird,1,IMG_0096 quail one.AVI
+TP-205,11/9/2014,quail,bird,3,IMG_0097 quail three.AVI
+TP-205,11/10/2014,bird,bird,1,IMG_0098 bird one.AVI
+TP-205,11/10/2014,bird,bird,1,IMG_0100 bird one.AVI
+TP-205,11/10/2014,bird,bird,1,IMG_0101 bird one.AVI
+TP-205,11/11/2014,bird,bird,1,IMG_0103 bird one.AVI
+TP-205,11/13/2014,Cuniculus paca,mammal,1,IMG_0105 paca one.AVI
+TP-205,11/13/2014,Cuniculus paca,mammal,1,IMG_0106 paca one.AVI
+TP-205,11/13/2014,Cuniculus paca,mammal,1,IMG_0107 paca one.AVI
+TP-205,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0109 nine-banded one.AVI
+TP-205,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0110 nine-banded one.AVI
+TP-205,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0111 nine-banded one.AVI
+TP-205,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0112 nine-banded one.AVI
+TP-205,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0113 nine-banded one.AVI
+TP-205,11/14/2014,Dasypus novemcinctus,mammal,1,IMG_0114 nine-banded one.AVI
+TP-205,11/15/2014,bird,bird,1,IMG_0116 bird one.AVI
+TP-205,11/15/2014,bird,bird,1,IMG_0117 bird one.AVI
+TP-205,11/16/2014,Didelphis marsupialis,mammal,1,IMG_0118 opossum one.AVI
+TP-205,11/16/2014,Dasypus novemcinctus,mammal,1,IMG_0119 nine-banded one.AVI
+TP-205,11/16/2014,Dasypus novemcinctus,mammal,1,IMG_0120 nine-banded one.AVI
+TP-205,11/16/2014,Dasypus novemcinctus,mammal,1,IMG_0121 nine-banded one.AVI
+TP-206,11/4/2014,bird,bird,1,EK000038 bird one.AVI
+TP-206,11/5/2014,bird,bird,1,EK000041 bird one.AVI
+TP-206,11/5/2014,bird,bird,1,EK000042 bird one.AVI
+TP-206,11/7/2014,bird,bird,1,EK000045 bird one.AVI
+TP-206,11/8/2014,bird,bird,1,EK000047 bird one.AVI
+TP-206,11/8/2014,bird,bird,1,EK000048 bird one.AVI
+TP-206,11/9/2014,bird,bird,1,EK000050 bird one.AVI
+TP-206,11/10/2014,bird,bird,1,EK000051 bird one.AVI
+TP-206,11/12/2014,bird,bird,1,EK000055 bird one.AVI
+TP-206,11/13/2014,bird,bird,1,EK000056 bird one.AVI
+TP-206,11/14/2014,bird,bird,1,EK000057 bird one.AVI
+TP-207,11/4/2014,quail,bird,2,IMG_0031 quail two.AVI
+TP-207,11/4/2014,quail,bird,2,IMG_0032 quail two good.AVI
+TP-207,11/4/2014,quail,bird,2,IMG_0033 quail two.AVI
+TP-207,11/5/2014,Aramides wolfi,bird,1,IMG_0034 wood-rail one.AVI
+TP-207,11/5/2014,Aramides wolfi,bird,1,IMG_0035 wood-rail one good.AVI
+TP-207,11/5/2014,bird,bird,1,IMG_0036 bird one good.AVI
+TP-207,11/6/2014,Dasyprocta punctata,mammal,1,IMG_0037 agouti one.AVI
+TP-207,11/9/2014,Aramides wolfi,bird,1,IMG_0039 wood-rail one.AVI
+TP-207,11/10/2014,quail,bird,3,IMG_0041 quail three.AVI
+TP-207,11/10/2014,quail,bird,1,IMG_0042 quail one.AVI
+TP-207,11/13/2014,Didelphis marsupialis,mammal,1,IMG_0046 opossum one.AVI
+TP-207,11/13/2014,Didelphis marsupialis,mammal,1,IMG_0047 opossum one.AVI
+TP-207,11/13/2014,bird,bird,1,IMG_0048 bird one.AVI
+TP-207,11/13/2014,Nasua narica,mammal,3,IMG_0049 coati three good.AVI
+TP-207,11/13/2014,quail,bird,1,IMG_0050 quail one.AVI
+TP-207,11/14/2014,Didelphis marsupialis,mammal,1,IMG_0051 opossum unsure one.AVI
+TP-207,11/14/2014,Aramides wolfi,bird,1,IMG_0053 wood-rail one.AVI
+TP-207,11/14/2014,Nasua narica,mammal,2,IMG_0054 coati two.AVI
+TP-207,11/14/2014,Nasua narica,mammal,1,IMG_0055 coati one.AVI
+TP-207,11/14/2014,Nasua narica,mammal,4,IMG_0056 coati four.AVI
+TP-207,11/14/2014,Nasua narica,mammal,3,IMG_0057 coati three.AVI
+TP-207,11/14/2014,Nasua narica,mammal,3,IMG_0058 coati three.AVI
+TP-207,11/14/2014,Nasua narica,mammal,2,IMG_0059 coati two.AVI
+TP-207,11/14/2014,Nasua narica,mammal,1,IMG_0061 coati one.AVI
+TP-208,11/2/2014,bird,bird,1,IMG_0041 bird one.AVI
+TP-208,11/3/2014,Didelphis marsupialis,mammal,1,IMG_0043 opossum one.AVI
+TP-208,11/6/2014,bird,bird,1,IMG_0049 bird one.AVI
+TP-208,11/8/2014,Cuniculus paca,mammal,1,IMG_0053 paca one.AVI
+TP-208,11/8/2014,Dasypus novemcinctus,mammal,1,IMG_0054 nine-banded one.AVI
+TP-208,11/8/2014,quail,bird,2,IMG_0056 quail two.AVI
+TP-208,11/9/2014,bird,bird,1,IMG_0060 bird one.AVI
+TP-208,11/10/2014,Dasypus novemcinctus,mammal,1,IMG_0061 nine-banded one.AVI
+TP-208,11/11/2014,quail,bird,1,IMG_0063 quail one.AVI
+TP-208,11/12/2014,bird,bird,1,IMG_0065 bird one.AVI
+TP-208,11/13/2014,Dasypus novemcinctus,mammal,1,IMG_0066 nine-banded one.AVI
+TP-208,11/14/2014,Cuniculus paca,mammal,1,IMG_0069 paca one.AVI
+TP-208,11/14/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-208,11/14/2014,bird,bird,1,IMG_0071 bird one.AVI
+TP-208,11/15/2014,bird,bird,1,IMG_0072 bird one.AVI
+TP-208,11/15/2014,bird,bird,1,IMG_0073 bird one.AVI
+TP-209,11/3/2014,Cuniculus paca,mammal,1,IMG_0055 paca one good.AVI
+TP-209,11/3/2014,Cuniculus paca,mammal,1,IMG_0056 paca one.AVI
+TP-209,11/5/2014,bird,bird,1,IMG_0063 bird one.AVI
+TP-209,11/6/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-209,11/15/2014,quail,bird,1,IMG_0082 ruddy_quail_dove one.AVI
+TP-209,11/16/2014,Dasypus novemcinctus,mammal,1,IMG_0083 nine-banded one.AVI
+TP-209,11/16/2014,Dasypus novemcinctus,mammal,1,IMG_0084 nine-banded one.AVI
+TP-209,11/16/2014,Dasypus novemcinctus,mammal,1,IMG_0085 nine-banded one.AVI
+TP-210,11/5/2014,Philander sp.,mammal,4,IMG_0064 four-eye one.AVI
+TP-210,11/5/2014,bird,bird,1,IMG_0065 bird one.AVI
+TP-210,11/6/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-210,11/6/2014,Dasyprocta punctata,mammal,1,IMG_0071 agouti one.AVI
+TP-210,11/10/2014,Philander sp.,mammal,4,IMG_0075 four-eye one.AVI
+TP-210,11/11/2014,bird,bird,1,IMG_0076 bird one.AVI
+TP-210,11/13/2014,Dasypus novemcinctus,mammal,1,IMG_0077 nine-banded one.AVI
+TP-210,11/15/2014,antpitta,bird,1,IMG_0080 antpitta one.AVI
+TP-210,11/15/2014,quail,bird,1,IMG_0081 ruddy_quail_dove one.AVI
+TP-210,11/16/2014,bird,bird,1,IMG_0082 unk_bird one.AVI
+TP-211,11/7/2014,Leopardus pardalis,mammal,1,MFDC0010 ocelot one.AVI
+TP-211,11/11/2014,Dasyprocta punctata,mammal,2,MFDC0012 agouti two.AVI
+TP-211,11/13/2014,Didelphis marsupialis,mammal,1,MFDC0014 opossum unsure one.AVI
+TP-212,11/5/2014,Leopardus pardalis,mammal,1,IMG_0059 ocelot one.AVI
+TP-212,11/9/2014,Philander sp.,mammal,4,IMG_0061 four-eye one.AVI
+TP-212,11/11/2014,Dasyprocta punctata,mammal,1,IMG_0063 agouti one.AVI
+TP-213,11/3/2014,Philander sp.,mammal,4,IMG_0064 four-eye good one.AVI
+TP-213,11/3/2014,Philander sp.,mammal,4,IMG_0065 four-eye one.AVI
+TP-213,11/4/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-213,11/4/2014,bird,bird,1,IMG_0067 bird one.AVI
+TP-213,11/10/2014,bird,bird,1,IMG_0073 bird one.AVI
+TP-213,11/12/2014,Dasyprocta punctata,mammal,1,IMG_0075 agouti one good.AVI
+TP-213,11/12/2014,Dasyprocta punctata,mammal,1,IMG_0076 agouti one.AVI
+TP-213,11/16/2014,Cuniculus paca,mammal,1,IMG_0078 paca one good.AVI
+TP-214,11/12/2014,Dasypus novemcinctus,mammal,1,EK000039 nine-banded one.AVI
+TP-215,11/2/2014,bird,bird,1,IMG_0155 bird one.AVI
+TP-215,11/3/2014,Philander sp.,mammal,4,IMG_0156 four-eye one.AVI
+TP-215,11/3/2014,bird,bird,1,IMG_0157 bird one.AVI
+TP-215,11/3/2014,bird,bird,1,IMG_0158 bird one.AVI
+TP-215,11/3/2014,bird,bird,1,IMG_0159 bird one.AVI
+TP-215,11/3/2014,bird,bird,2,IMG_0160 bird two.AVI
+TP-215,11/3/2014,quail,bird,1,IMG_0161 quail one.AVI
+TP-215,11/4/2014,Philander sp.,mammal,4,IMG_0162 four-eye one.AVI
+TP-215,11/4/2014,bird,bird,1,IMG_0164 bird one.AVI
+TP-215,11/4/2014,Dasyprocta punctata,mammal,1,IMG_0165 agouti one.AVI
+TP-215,11/5/2014,bird,bird,1,IMG_0166 bird one.AVI
+TP-215,11/5/2014,bird,bird,1,IMG_0167 bird one.AVI
+TP-215,11/6/2014,bird,bird,1,IMG_0169 bird one.AVI
+TP-215,11/6/2014,bird,bird,1,IMG_0170 bird one.AVI
+TP-215,11/7/2014,Philander sp.,mammal,4,IMG_0172 four-eye one.AVI
+TP-215,11/7/2014,quail,bird,1,IMG_0173 quail one.AVI
+TP-215,11/8/2014,Dasypus novemcinctus,mammal,1,IMG_0174 nine-banded one unsure.AVI
+TP-215,11/11/2014,Cuniculus paca,mammal,1,IMG_0180 paca one.AVI
+TP-215,11/11/2014,Cuniculus paca,mammal,1,IMG_0182 paca one good.AVI
+TP-215,11/11/2014,Philander sp.,mammal,4,IMG_0183 four-eye one.AVI
+TP-215,11/12/2014,Philander sp.,mammal,4,IMG_0184 four-eye one.AVI
+TP-215,11/14/2014,Philander sp.,mammal,4,IMG_0186 four-eye one.AVI
+TP-215,11/16/2014,Cuniculus paca,mammal,1,IMG_0187 paca one.AVI
+TP-216,11/8/2014,Dasyprocta punctata,mammal,1,IMG_0066 agouti one good.AVI
+TP-216,11/9/2014,Dasypus novemcinctus,mammal,1,IMG_0067 nine-banded one.AVI
+TP-217,11/4/2014,Nasua narica,mammal,1,IMG_0041 coati one.AVI
+TP-217,11/5/2014,Didelphis marsupialis,mammal,1,IMG_0042 opossum one.AVI
+TP-217,11/15/2014,Nasua narica,mammal,1,IMG_0049 coati one.AVI
+TP-217,11/15/2014,Nasua narica,mammal,1,IMG_0050 coati one.AVI
+TP-217,11/15/2014,Nasua narica,mammal,1,IMG_0051 coati one.AVI
+TP-218,11/4/2014,Dasypus novemcinctus,mammal,1,IMG_0072 nine-banded one.AVI
+TP-218,11/4/2014,Philander sp.,mammal,4,IMG_0074 four-eye one.AVI
+TP-218,11/5/2014,Cuniculus paca,mammal,1,IMG_0075 paca one.AVI
+TP-218,11/7/2014,Cuniculus paca,mammal,1,IMG_0076 paca one.AVI
+TP-218,11/7/2014,Cuniculus paca,mammal,1,IMG_0078 paca one.AVI
+TP-218,11/7/2014,Cuniculus paca,mammal,1,IMG_0079 paca one.AVI
+TP-218,11/13/2014,Philander sp.,mammal,4,IMG_0087 four-eye one.AVI
+TP-218,11/15/2014,Philander sp.,mammal,4,IMG_0089 four-eye one.AVI
+TP-218,11/17/2014,Cuniculus paca,mammal,1,IMG_0096 paca one.AVI
+TP-219,11/4/2014,Dasyprocta punctata,mammal,1,IMG_0133 agouti one.AVI
+TP-219,11/4/2014,bird,bird,1,IMG_0134 bird one.AVI
+TP-219,11/4/2014,bird,bird,1,IMG_0135 bird one.AVI
+TP-219,11/5/2014,Sciurus sp.,mammal,1,IMG_0136 squirrel one.AVI
+TP-219,11/5/2014,Dasyprocta punctata,mammal,1,IMG_0137 agouti one.AVI
+TP-219,11/5/2014,Dasyprocta punctata,mammal,1,IMG_0138 agouti one good.AVI
+TP-219,11/5/2014,Dasyprocta punctata,mammal,1,IMG_0140 agouti one.AVI
+TP-219,11/5/2014,Dasyprocta punctata,mammal,1,IMG_0141 agouti one.AVI
+TP-219,11/6/2014,Sciurus sp.,mammal,1,IMG_0142 squirrel one.AVI
+TP-219,11/7/2014,Cuniculus paca,mammal,1,IMG_0144 paca one.AVI
+TP-219,11/7/2014,Cuniculus paca,mammal,1,IMG_0145 paca one.AVI
+TP-219,11/7/2014,Dasyprocta punctata,mammal,1,IMG_0146 agouti one.AVI
+TP-219,11/7/2014,Dasyprocta punctata,mammal,1,IMG_0147 agouti one.AVI
+TP-219,11/7/2014,Dasyprocta punctata,mammal,1,IMG_0148 agouti one.AVI
+TP-219,11/8/2014,Dasypus novemcinctus,mammal,1,IMG_0149 nine-banded one.AVI
+TP-219,11/8/2014,Dasyprocta punctata,mammal,1,IMG_0150 agouti one.AVI
+TP-219,11/9/2014,Sciurus sp.,mammal,1,IMG_0151 squirrel one.AVI
+TP-219,11/10/2014,Dasyprocta punctata,mammal,1,IMG_0153 agouti one.AVI
+TP-219,11/13/2014,Dasyprocta punctata,mammal,1,IMG_0156 agouti one.AVI
+TP-219,11/13/2014,Dasyprocta punctata,mammal,1,IMG_0157 agouti one.AVI
+TP-219,11/15/2014,Dasypus novemcinctus,mammal,1,IMG_0159 nine-banded one.AVI
+TP-219,11/17/2014,Dasypus novemcinctus,mammal,1,IMG_0160 nine-banded one.AVI
+TP-221,11/4/2014,Cuniculus paca,mammal,1,IMG_0064 paca one.AVI
+TP-221,11/4/2014,Cuniculus paca,mammal,1,IMG_0065 paca one.AVI
+TP-221,11/6/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-221,11/6/2014,bird,bird,1,IMG_0067 bird one.AVI
+TP-221,11/6/2014,bird,bird,1,IMG_0068 bird one.AVI
+TP-221,11/6/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-221,11/6/2014,bird,bird,2,IMG_0070 bird two.AVI
+TP-221,11/7/2014,quail,bird,1,IMG_0071 quail one.AVI
+TP-221,11/7/2014,quail,bird,1,IMG_0072 quail one.AVI
+TP-221,11/9/2014,bird,bird,2,IMG_0074 bird two good baby.AVI
+TP-221,11/12/2014,Nasua narica,mammal,1,IMG_0081 coati one good.AVI
+TP-222,11/6/2014,bird,bird,1,IMG_0045 bird one.AVI
+TP-222,11/14/2014,bird,bird,1,IMG_0061 bird unsure one.AVI
+TP-223,11/4/2014,Dasypus novemcinctus,mammal,1,EK000028 nine-banded one.AVI
+TP-223,11/6/2014,bird,bird,1,EK000030 bird one.AVI
+TP-223,11/9/2014,bird,bird,1,EK000033 bird one.AVI
+TP-223,11/9/2014,bird,bird,1,EK000034 bird one.AVI
+TP-223,11/12/2014,bird,bird,1,EK000038 bird one.AVI
+TP-223,11/12/2014,bird,bird,1,EK000040 bird one.AVI
+TP-223,11/14/2014,bird,bird,1,EK000041 bird one.AVI
+TP-223,11/17/2014,bird,bird,1,EK000042 bird one.AVI
+TP-224,11/3/2014,bird,bird,1,IMG_0020 bird one.AVI
+TP-224,11/7/2014,bird,bird,1,IMG_0023 bird one.AVI
+TP-224,11/7/2014,bird,bird,1,IMG_0024 bird one.AVI
+TP-224,11/7/2014,bird,bird,1,IMG_0025 bird one.AVI
+TP-224,11/7/2014,bird,bird,1,IMG_0026 bird one.AVI
+TP-224,11/9/2014,bird,bird,1,IMG_0029 bird one.AVI
+TP-224,11/11/2014,bird,bird,1,IMG_0030 bird one.AVI
+TP-224,11/11/2014,quail,bird,2,IMG_0031 quail two.AVI
+TP-225,11/6/2014,Cuniculus paca,mammal,1,IMG_0111 paca one.AVI
+TP-225,11/7/2014,Dasypus novemcinctus,mammal,1,IMG_0112 nine-banded one.AVI
+TP-225,11/7/2014,bird,bird,1,IMG_0113 bird one.AVI
+TP-225,11/7/2014,bird,bird,1,IMG_0114 bird one.AVI
+TP-225,11/9/2014,bird,bird,1,IMG_0115 bird one.AVI
+TP-225,11/11/2014,bird,bird,1,IMG_0117 bird one.AVI
+TP-225,11/12/2014,bird,bird,1,IMG_0120 bird one.AVI
+TP-225,11/13/2014,quail,bird,1,IMG_0122 quail one.AVI
+TP-225,11/13/2014,quail,bird,2,IMG_0123 quail two baby.AVI
+TP-226,11/7/2014,Cuniculus paca,mammal,1,IMG_0056 paca one.AVI
+TP-226,11/8/2014,Cuniculus paca,mammal,1,IMG_0057 paca one.AVI
+TP-226,11/8/2014,Cuniculus paca,mammal,1,IMG_0058 paca one.AVI
+TP-226,11/9/2014,bird,bird,1,IMG_0062 bird one.AVI
+TP-226,11/10/2014,Philander sp.,mammal,4,IMG_0063 four-eye one.AVI
+TP-226,11/11/2014,bird,bird,1,IMG_0065 bird one.AVI
+TP-226,11/12/2014,Dasyprocta punctata,mammal,1,IMG_0068 agouti one.AVI
+TP-226,11/13/2014,Sciurus sp.,mammal,1,IMG_0071 squirrel one.AVI
+TP-226,11/13/2014,quail,bird,1,IMG_0073 quail one.AVI
+TP-226,11/13/2014,quail,bird,1,IMG_0074 quail one.AVI
+TP-226,11/13/2014,bird,bird,1,IMG_0075 bird one.AVI
+TP-226,11/13/2014,bird,bird,1,IMG_0076 bird one.AVI
+TP-226,11/14/2014,bird,bird,1,IMG_0077 bird one.AVI
+TP-226,11/15/2014,indigo dove,bird,1,IMG_0082 indigo_dove one.AVI
+TP-227,11/5/2014,bird,bird,1,IMG_0011 bird one.AVI
+TP-227,11/6/2014,bird,bird,1,IMG_0013 bird one.AVI
+TP-227,11/6/2014,bird,bird,1,IMG_0014 bird one.AVI
+TP-227,11/7/2014,Dasyprocta punctata,mammal,1,IMG_0016 agouti one.AVI
+TP-227,11/8/2014,Dasypus novemcinctus,mammal,1,IMG_0017 nine-banded one.AVI
+TP-227,11/8/2014,bird,bird,1,IMG_0018 bird one.AVI
+TP-227,11/15/2014,bird,bird,1,IMG_0031 bird one.AVI
+TP-228,11/11/2014,Leopardus pardalis,mammal,1,IMG_0126 ocelot one good.AVI
+TP-229,11/4/2014,quail,bird,2,IMG_0048 quail two.AVI
+TP-229,11/6/2014,quail,bird,1,IMG_0058 quail one.AVI
+TP-229,11/6/2014,quail,bird,1,IMG_0059 quail one.AVI
+TP-229,11/6/2014,quail,bird,2,IMG_0060 quail two.AVI
+TP-229,11/6/2014,quail,bird,2,IMG_0061 quail two.AVI
+TP-229,11/6/2014,quail,bird,2,IMG_0062 quail two.AVI
+TP-229,11/7/2014,bird,bird,1,IMG_0068 bird one.AVI
+TP-229,11/7/2014,bird,bird,1,IMG_0069 bird one.AVI
+TP-229,11/7/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-229,11/8/2014,little tinamou,bird,1,IMG_0081 little_tinamou one.AVI
+TP-229,11/14/2014,Sciurus sp.,mammal,1,IMG_0101 squirrel one.AVI
+TP-230,11/10/2014,bird,bird,1,IMG_0191 bird one.AVI
+TP-230,11/11/2014,Philander sp.,mammal,4,IMG_0192 four-eye one.AVI
+TP-230,11/12/2014,Philander sp.,mammal,4,IMG_0197 four-eye one.AVI
+TP-230,11/13/2014,Leopardus pardalis,mammal,1,IMG_0202 ocelot one good.AVI
+TP-231,11/4/2014,bird,bird,1,EK000107 bird one.AVI
+TP-231,11/4/2014,bird,bird,1,EK000109 bird one.AVI
+TP-231,11/6/2014,bird,bird,1,EK000116 bird one.AVI
+TP-231,11/7/2014,bird,bird,1,EK000119 bird one.AVI
+TP-231,11/8/2014,Dasyprocta punctata,mammal,1,EK000121 agouti one good.AVI
+TP-231,11/8/2014,Dasyprocta punctata,mammal,1,EK000122 agouti one.AVI
+TP-231,11/8/2014,bird,bird,1,EK000123 bird one good.AVI
+TP-231,11/13/2014,Cuniculus paca,mammal,1,EK000137 paca one.AVI
+TP-232,11/6/2014,bird,bird,1,IMG_0087 bird one.AVI
+TP-232,11/9/2014,Nasua narica,mammal,1,IMG_0091 coati one.AVI
+TP-232,11/9/2014,Nasua narica,mammal,1,IMG_0092 coati one.AVI
+TP-232,11/15/2014,Dasypus novemcinctus,mammal,1,IMG_0100 nine-banded one.AVI
+TP-233,11/6/2014,Dasypus novemcinctus,mammal,1,IMG_0041 nine-banded one.AVI
+TP-233,11/6/2014,bird,bird,1,IMG_0042 bird one.AVI
+TP-233,11/7/2014,Dasypus novemcinctus,mammal,1,IMG_0043 nine-banded one good.AVI
+TP-233,11/7/2014,Dasypus novemcinctus,mammal,1,IMG_0044 nine-banded one.AVI
+TP-233,11/7/2014,Dasypus novemcinctus,mammal,1,IMG_0045 nine-banded one.AVI
+TP-233,11/9/2014,bird,bird,1,IMG_0049 bird one.AVI
+TP-233,11/9/2014,bird,bird,1,IMG_0050 bird one.AVI
+TP-233,11/10/2014,bird,bird,1,IMG_0052 bird one.AVI
+TP-233,11/13/2014,Cuniculus paca,mammal,1,IMG_0061 paca one.AVI
+TP-233,11/15/2014,Cuniculus paca,mammal,1,IMG_0065 paca one.AVI
+TP-234,11/6/2014,bird,bird,1,IMG_0004 bird one.AVI
+TP-234,11/6/2014,bird,bird,2,IMG_0005 bird two.AVI
+TP-234,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0013 opossum one good.AVI
+TP-234,11/11/2014,bird,bird,1,IMG_0014 bird one.AVI
+TP-234,11/12/2014,Philander sp.,mammal,4,IMG_0015 four-eye one.AVI
+TP-234,11/12/2014,Philander sp.,mammal,4,IMG_0016 four-eye one.AVI
+TP-234,11/12/2014,Philander sp.,mammal,4,IMG_0017 four-eye one.AVI
+TP-234,11/12/2014,Philander sp.,mammal,4,IMG_0018 four-eye one.AVI
+TP-234,11/14/2014,Philander sp.,mammal,4,IMG_0020 four-eye one.AVI
+TP-234,11/14/2014,Philander sp.,mammal,4,IMG_0021 four-eye one.AVI
+TP-235,11/4/2014,Cuniculus paca,mammal,1,IMG_0087 paca one good.AVI
+TP-235,11/4/2014,Cuniculus paca,mammal,1,IMG_0088 paca one.AVI
+TP-235,11/4/2014,Cuniculus paca,mammal,1,IMG_0089 paca one.AVI
+TP-235,11/5/2014,Cuniculus paca,mammal,1,IMG_0091 paca one.AVI
+TP-235,11/5/2014,Cuniculus paca,mammal,1,IMG_0092 paca one.AVI
+TP-235,11/5/2014,Cuniculus paca,mammal,1,IMG_0093 paca one good.AVI
+TP-235,11/5/2014,Cuniculus paca,mammal,1,IMG_0094 paca one good.AVI
+TP-235,11/5/2014,Dasyprocta punctata,mammal,1,IMG_0097 agouti one.AVI
+TP-235,11/6/2014,bird,bird,1,IMG_0100 bird one.AVI
+TP-235,11/9/2014,Philander sp.,mammal,4,IMG_0104 four-eye one.AVI
+TP-235,11/9/2014,Philander sp.,mammal,4,IMG_0105 four-eye one.AVI
+TP-235,11/10/2014,Dasypus novemcinctus,mammal,1,IMG_0109 nine-banded one.AVI
+TP-235,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0111 opossum one.AVI
+TP-235,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0112 opossum one good.AVI
+TP-235,11/11/2014,Didelphis marsupialis,mammal,1,IMG_0113 opossum one.AVI
+TP-235,11/11/2014,Dasyprocta punctata,mammal,1,IMG_0117 agouti one.AVI
+TP-235,11/14/2014,bird,bird,1,IMG_0120 bird one.AVI
+TP-235,11/15/2014,Cuniculus paca,mammal,1,IMG_0121 paca one good.AVI
+TP-235,11/15/2014,Cuniculus paca,mammal,1,IMG_0122 paca one.AVI
+TP-235,11/15/2014,Cuniculus paca,mammal,1,IMG_0123 paca one.AVI
+TP-235,11/15/2014,Cuniculus paca,mammal,1,IMG_0124 paca one.AVI
+TP-235,11/16/2014,Philander sp.,mammal,4,IMG_0127 four-eye one.AVI
+TP-236,12/13/2014,Tamandua mexicana,mammal,1,EK000087 tamandua one.AVI
+TP-236,12/16/2014,bird,bird,1,EK000101 bird one.AVI
+TP-236,12/16/2014,bird,bird,1,EK000102 bird one.AVI
+TP-237,12/4/2014,Dasypus novemcinctus,mammal,1,IMG_0076 nine-banded one.AVI
+TP-237,12/4/2014,Nasua narica,mammal,1,IMG_0079 coati one.AVI
+TP-237,12/4/2014,Nasua narica,mammal,1,IMG_0080 coati one.AVI
+TP-237,12/11/2014,Nasua narica,mammal,2,IMG_0084 coati two good.AVI
+TP-237,12/11/2014,Nasua narica,mammal,1,IMG_0085 coati one good.AVI
+TP-237,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0086 nine-banded one good.AVI
+TP-237,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0087 nine-banded one.AVI
+TP-237,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0088 nine-banded one.AVI
+TP-237,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0089 nine-banded one.AVI
+TP-237,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0090 nine-banded one.AVI
+TP-237,12/13/2014,Cuniculus paca,mammal,1,IMG_0091 paca one.AVI
+TP-238,12/6/2014,bird,bird,1,IMG_0089 bird one.AVI
+TP-238,12/11/2014,Nasua narica,mammal,1,IMG_0099 coati one.AVI
+TP-239,12/2/2014,Dasypus novemcinctus,mammal,1,MFDC0002 nine-banded one.AVI
+TP-239,12/9/2014,Nasua narica,mammal,1,MFDC0004 coati one.AVI
+TP-239,12/9/2014,Nasua narica,mammal,1,MFDC0005 coati one good.AVI
+TP-239,12/9/2014,Nasua narica,mammal,1,MFDC0006 coati one.AVI
+TP-239,12/9/2014,Nasua narica,mammal,1,MFDC0007 coati one.AVI
+TP-241,12/6/2014,bird,bird,1,IMG_0022 bird one good.AVI
+TP-241,12/11/2014,bird,bird,1,IMG_0023 bird unsure one.AVI
+TP-242,12/6/2014,Tamandua mexicana,mammal,1,IMG_0153 tamandua one good.AVI
+TP-242,12/11/2014,bird,bird,1,IMG_0154 bird one.AVI
+TP-244,12/6/2014,Dasypus novemcinctus,mammal,1,IMG_0068 nine-banded one.AVI
+TP-244,12/6/2014,Dasypus novemcinctus,mammal,1,IMG_0069 nine-banded one.AVI
+TP-245,12/6/2014,Dasyprocta punctata,mammal,1,IMG_0131 agouti one.AVI
+TP-245,12/9/2014,Dasypus novemcinctus,mammal,1,IMG_0133 nine-banded one.AVI
+TP-245,12/10/2014,bird,bird,1,IMG_0134 bird one.AVI
+TP-245,12/14/2014,bird,bird,1,IMG_0136 bird one.AVI
+TP-247,12/3/2014,bird,bird,1,IMG_0107 bird one.AVI
+TP-247,12/11/2014,bird,bird,1,IMG_0109 bird one.AVI
+TP-247,12/16/2014,Dasyprocta punctata,mammal,1,IMG_0110 agouti one.AVI
+TP-248,12/1/2014,Dasypus novemcinctus,mammal,1,IMG_0191 nine-banded one.AVI
+TP-248,12/4/2014,Dasyprocta punctata,mammal,1,IMG_0197 agouti one.AVI
+TP-248,12/5/2014,Dasyprocta punctata,mammal,1,IMG_0198 agouti unsure one.AVI
+TP-248,12/7/2014,little tinamou,bird,1,IMG_0202 little_tinamou one.AVI
+TP-248,12/11/2014,Dasypus novemcinctus,mammal,1,IMG_0205 nine-banded one.AVI
+TP-248,12/13/2014,Dasyprocta punctata,mammal,1,IMG_0207 agouti one.AVI
+TP-248,12/13/2014,Dasyprocta punctata,mammal,1,IMG_0208 agouti one.AVI
+TP-248,12/13/2014,Dasyprocta punctata,mammal,1,IMG_0209 agouti one.AVI
+TP-248,12/13/2014,pallid dove,bird,1,IMG_0210 pallid_dove one.AVI
+TP-248,12/14/2014,Dasyprocta punctata,mammal,1,IMG_0211 agouti one.AVI
+TP-248,12/14/2014,Dasyprocta punctata,mammal,1,IMG_0213 agouti one.AVI
+TP-250,12/4/2014,bird,bird,1,IMG_0070 bird one.AVI
+TP-250,12/8/2014,bird,bird,1,IMG_0074 bird one.AVI
+TP-250,12/8/2014,quail,bird,2,IMG_0075 quail two.AVI
+TP-250,12/9/2014,quail,bird,1,IMG_0076 quail one.AVI
+TP-250,12/9/2014,quail,bird,1,IMG_0077 quail one.AVI
+TP-250,12/9/2014,quail,bird,2,IMG_0078 quail two.AVI
+TP-250,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0080 nine-banded one.AVI
+TP-250,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0081 nine-banded one.AVI
+TP-250,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0082 nine-banded one.AVI
+TP-250,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0083 nine-banded one.AVI
+TP-250,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0084 nine-banded one.AVI
+TP-250,12/14/2014,bird,bird,1,IMG_0085 bird one.AVI
+TP-250,12/14/2014,bird,bird,1,IMG_0086 bird one.AVI
+TP-250,12/14/2014,bird,bird,1,IMG_0088 bird one.AVI
+TP-250,12/15/2014,Dasypus novemcinctus,mammal,1,IMG_0090 nine-banded one.AVI
+TP-250,12/15/2014,Dasypus novemcinctus,mammal,1,IMG_0091 nine-banded one.AVI
+TP-250,12/15/2014,Dasypus novemcinctus,mammal,1,IMG_0092 nine-banded one.AVI
+TP-250,12/15/2014,Dasypus novemcinctus,mammal,1,IMG_0093 nine-banded one.AVI
+TP-250,12/16/2014,Dasypus novemcinctus,mammal,1,IMG_0094 nine-banded one.AVI
+TP-250,12/16/2014,Leopardus pardalis,mammal,1,IMG_0095 ocelot one unsure good.AVI
+TP-252,12/2/2014,bird,bird,1,EK000113 bird one.AVI
+TP-252,12/2/2014,bird,bird,1,EK000114 bird one.AVI
+TP-252,12/5/2014,Dasyprocta punctata,mammal,1,EK000115 agouti one.AVI
+TP-252,12/10/2014,Dasypus novemcinctus,mammal,1,EK000118 nine-banded one.AVI
+TP-252,12/14/2014,Dasypus novemcinctus,mammal,1,EK000121 nine-banded one.AVI
+TP-253,12/2/2014,Eira barbara,mammal,1,IMG_0138 eira one good.AVI
+TP-253,12/2/2014,Eira barbara,mammal,1,IMG_0139 eira one good.AVI
+TP-253,12/11/2014,Cuniculus paca,mammal,1,IMG_0155 paca one good.AVI
+TP-253,12/11/2014,Cuniculus paca,mammal,1,IMG_0156 paca one.AVI
+TP-253,12/11/2014,Cuniculus paca,mammal,1,IMG_0157 paca one.AVI
+TP-253,12/14/2014,Dasypus novemcinctus,mammal,1,IMG_0161 nine-banded one.AVI
+TP-253,12/14/2014,Dasypus novemcinctus,mammal,1,IMG_0162 nine-banded one.AVI
+TP-254,12/3/2014,bird,bird,1,IMG_0044 bird one.AVI
+TP-254,12/7/2014,bird,bird,1,IMG_0046 bird one.AVI
+TP-254,12/11/2014,Didelphis marsupialis,mammal,1,IMG_0049 opossum one.AVI
+TP-255,12/5/2014,antthrush,bird,1,IMG_0082 antthrush one.AVI
+TP-255,12/9/2014,Sciurus sp.,mammal,1,IMG_0084 squirrel one.AVI
+TP-255,12/10/2014,bird,bird,1,IMG_0085 bird one.AVI
+TP-255,12/10/2014,bird,bird,1,IMG_0086 bird one.AVI
+TP-255,12/10/2014,Eira barbara,mammal,1,IMG_0087 eira one.AVI
+TP-255,12/13/2014,Eira barbara,mammal,1,IMG_0093 eira one.AVI
+TP-255,12/16/2014,bird,bird,1,IMG_0094 bird one.AVI
+TP-256,12/2/2014,bird,bird,1,IMG_0160 bird one.AVI
+TP-256,12/6/2014,bird,bird,1,IMG_0161 bird one.AVI
+TP-256,12/7/2014,Nasua narica,mammal,1,IMG_0162 coati one.AVI
+TP-256,12/7/2014,bird,bird,1,IMG_0163 bird one.AVI
+TP-256,12/9/2014,Dasypus novemcinctus,mammal,1,IMG_0164 nine-banded one.AVI
+TP-256,12/10/2014,bird,bird,1,IMG_0165 bird one.AVI
+TP-256,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0167 nine-banded one.AVI
+TP-256,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0168 nine-banded one.AVI
+TP-257,12/3/2014,bird,bird,1,IMG_0119 bird one.AVI
+TP-257,12/5/2014,bird,bird,1,IMG_0120 bird one.AVI
+TP-257,12/7/2014,bird,bird,1,IMG_0121 bird one.AVI
+TP-257,12/7/2014,bird,bird,1,IMG_0122 bird one.AVI
+TP-257,12/7/2014,bird,bird,1,IMG_0123 bird one.AVI
+TP-257,12/8/2014,bird,bird,1,IMG_0124 bird one.AVI
+TP-257,12/8/2014,bird,bird,1,IMG_0125 bird one.AVI
+TP-257,12/9/2014,bird,bird,1,IMG_0126 bird one.AVI
+TP-257,12/11/2014,Didelphis marsupialis,mammal,1,IMG_0127 opossum one.AVI
+TP-257,12/13/2014,Eira barbara,mammal,1,IMG_0129 eira one.AVI
+TP-258,12/7/2014,bird,bird,1,IMG_0087 bird one.AVI
+TP-258,12/7/2014,Leopardus pardalis,mammal,1,IMG_0088 ocelot one.AVI
+TP-259,12/3/2014,bird,bird,1,IMG_0007 bird one.AVI
+TP-259,12/6/2014,Dasypus novemcinctus,mammal,1,IMG_0008 nine-banded one.AVI
+TP-259,12/6/2014,bird,bird,1,IMG_0009 bird one.AVI
+TP-259,12/6/2014,bird,bird,1,IMG_0010 bird one.AVI
+TP-259,12/9/2014,bird,bird,1,IMG_0011 bird one.AVI
+TP-259,12/10/2014,Cuniculus paca,mammal,1,IMG_0012 paca one good.AVI
+TP-259,12/10/2014,Cuniculus paca,mammal,1,IMG_0013 paca one.AVI
+TP-259,12/10/2014,Cuniculus paca,mammal,1,IMG_0014 paca one.AVI
+TP-259,12/10/2014,quail,bird,2,IMG_0015 quail two.AVI
+TP-259,12/14/2014,Dasypus novemcinctus,mammal,1,IMG_0020 nine-banded one.AVI
+TP-259,12/14/2014,Dasypus novemcinctus,mammal,1,IMG_0021 nine-banded one.AVI
+TP-259,12/15/2014,Dasypus novemcinctus,mammal,1,IMG_0022 nine-banded one.AVI
+TP-259,12/15/2014,Dasypus novemcinctus,mammal,1,IMG_0023 nine-banded one.AVI
+TP-259,12/15/2014,Dasypus novemcinctus,mammal,1,IMG_0024 nine-banded one.AVI
+TP-259,12/16/2014,Dasypus novemcinctus,mammal,1,IMG_0025 nine-banded one.AVI
+TP-259,12/16/2014,Dasypus novemcinctus,mammal,1,IMG_0026 nine-banded one.AVI
+TP-259,12/16/2014,Didelphis marsupialis,mammal,1,IMG_0027 opossum one.AVI
+TP-260,12/3/2014,bird,bird,1,IMG_0060 bird one.AVI
+TP-260,12/7/2014,Dasypus novemcinctus,mammal,1,IMG_0061 nine-banded one.AVI
+TP-260,12/11/2014,bird,bird,1,IMG_0066 bird one.AVI
+TP-260,12/11/2014,Eira barbara,mammal,1,IMG_0067 eira one good.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0068 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0069 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0070 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0071 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0072 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0073 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0074 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0075 nine-banded one.AVI
+TP-260,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0076 nine-banded one.AVI
+TP-261,12/12/2014,bird,bird,1,EK000119 bird one.AVI
+TP-261,12/12/2014,bird,bird,1,EK000120 bird one.AVI
+TP-261,12/14/2014,bird,bird,1,EK000123 bird one.AVI
+TP-262,12/5/2014,Nasua narica,mammal,3,IMG_0058 coati three.AVI
+TP-262,12/10/2014,bird,bird,1,IMG_0059 bird one.AVI
+TP-262,12/10/2014,bird,bird,1,IMG_0060 bird one.AVI
+TP-262,12/11/2014,Dasypus novemcinctus,mammal,1,IMG_0061 nine-banded one.AVI
+TP-262,12/11/2014,Dasypus novemcinctus,mammal,1,IMG_0062 nine-banded one.AVI
+TP-262,12/11/2014,Dasypus novemcinctus,mammal,1,IMG_0063 nine-banded one.AVI
+TP-262,12/12/2014,Didelphis marsupialis,mammal,1,IMG_0065 opossum one.AVI
+TP-262,12/12/2014,Didelphis marsupialis,mammal,1,IMG_0066 opossum one.AVI
+TP-262,12/12/2014,Didelphis marsupialis,mammal,1,IMG_0067 opossum one.AVI
+TP-262,12/13/2014,Dasypus novemcinctus,mammal,1,IMG_0070 nine-banded one.AVI
+TP-262,12/13/2014,Dasypus novemcinctus,mammal,1,IMG_0071 nine-banded one.AVI
+TP-262,12/13/2014,Dasypus novemcinctus,mammal,1,IMG_0072 nine-banded one.AVI
+TP-262,12/13/2014,Dasypus novemcinctus,mammal,1,IMG_0073 nine-banded one.AVI
+TP-262,12/13/2014,Didelphis marsupialis,mammal,1,IMG_0074 opossum one.AVI
+TP-262,12/15/2014,Didelphis marsupialis,mammal,1,IMG_0076 opossum one.AVI
+TP-265,12/7/2014,Dasyprocta punctata,mammal,1,IMG_0155 agouti one.AVI
+TP-265,12/7/2014,Dasyprocta punctata,mammal,1,IMG_0156 agouti one.AVI
+TP-265,12/7/2014,Dasyprocta punctata,mammal,1,IMG_0157 agouti one.AVI
+TP-265,12/8/2014,bird,bird,1,IMG_0164 bird one.AVI
+TP-265,12/11/2014,Procyon cancrivorus,mammal,1,IMG_0202 raccoon one unsure.AVI
+TP-265,12/14/2014,Leopardus pardalis,mammal,1,IMG_0244 ocelot one.AVI
+TP-265,12/14/2014,Leopardus pardalis,mammal,1,IMG_0245 ocelot one.AVI
+TP-266,12/9/2014,bird,bird,1,IMG_0089 bird one.AVI
+TP-266,12/14/2014,bird,bird,1,IMG_0091 bird one.AVI
+TP-266,12/14/2014,bird,bird,1,IMG_0092 bird one.AVI
+TP-267,12/9/2014,Eira barbara,mammal,1,IMG_0080 eira one.AVI
+TP-267,12/16/2014,bird,bird,1,IMG_0086 bird one.AVI
+TP-267,12/16/2014,bird,bird,1,IMG_0087 bird one.AVI
+TP-268,12/4/2014,bird,bird,1,IMG_0131 bird one.AVI
+TP-268,12/4/2014,bird,bird,1,IMG_0132 bird one.AVI
+TP-268,12/11/2014,bird,bird,1,IMG_0136 bird one.AVI
+TP-268,12/14/2014,bird,bird,2,IMG_0137 bird two.AVI
+TP-268,12/14/2014,bird,bird,1,IMG_0138 bird one.AVI
+TP-268,12/15/2014,bird,bird,1,IMG_0139 bird one.AVI
+TP-268,12/15/2014,bird,bird,1,IMG_0140 bird one.AVI
+TP-270,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0047 nine-banded one.AVI
+TP-270,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0048 nine-banded one.AVI
+TP-270,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0049 nine-banded one.AVI
+TP-270,12/12/2014,Dasypus novemcinctus,mammal,1,IMG_0050 nine-banded one.AVI
+TP-271,12/12/2014,Dasyprocta punctata,mammal,1,IMG_0002 agouti one.AVI
+TP-271,12/12/2014,Dasyprocta punctata,mammal,1,IMG_0003 agouti one.AVI
+TP-271,12/12/2014,Dasyprocta punctata,mammal,1,IMG_0004 agouti one.AVI
+TP-100,8/6/2014,Dasyprocta punctata,mammal,1,IMG_0034 agouti one.AVI
+TP-222,11/6/2014,Puma yagouaroundi,mammal,1,IMG_0046 jaguarundi one.AVI
+TP-199,11/12/2014,orange sparrow,bird,1,IMG_0190 orange_sparrow one.AVI
+TP-207,11/3/2014,quail,bird,3,IMG_0030 quail three.AVI
+TP-074,8/16/2014,Dasyprocta punctata,mammal,1,MFDC0009 agouti one.AVI
+TP-088,8/25/2014,Dasyprocta punctata,mammal,1,IMG_0037 agouti one.AVI
+TP-098,8/21/2014,Dasypus novemcinctus,mammal,1,IMG_0001 nine-banded one.AVI
+TP-101,8/10/2014,Didelphis marsupialis,mammal,1,IMG_0033 opossum one.AVI
