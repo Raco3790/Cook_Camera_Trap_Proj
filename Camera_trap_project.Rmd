@@ -114,6 +114,8 @@ SCOPE_plot <- ggplot(data= surveys_no_birds,
 plot(SCOPE_plot)
 
 ```
+The above graph displays results that align with expectations. Canopy openness is negatively correlated with species abundance and richness.
+
 #Analysis(ANOVA)
 
 ### SCOPE~species ANOVA
